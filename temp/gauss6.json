@@ -1,221 +1,13 @@
 {
     "kind": "youtube#SubscriptionListResponse",
-    "etag": "fnV77ro9rdIN2dqtYfLsxAp4F1A",
+    "etag": "6DzFk2qcMaqeurpY_DuH70FiJBo",
     "nextPageToken": "CN4CEAA",
     "prevPageToken": "CKwCEAE",
     "pageInfo": {
-        "totalResults": 403,
+        "totalResults": 597,
         "resultsPerPage": 50
     },
     "items": [
-        {
-            "kind": "youtube#subscription",
-            "etag": "u3pUqhBXIApC2TdOX3Hvg8yYw7o",
-            "id": "-9UIewmiCcucLtvbjmvK-5QgtX42Yv9ujN0o8u3XuQ4",
-            "snippet": {
-                "publishedAt": "2023-05-31T21:31:10.901141Z",
-                "title": "MarkWattsVLG",
-                "description": "Stay tuned for tech and gaming news, unboxings and gameplay videos\nOfficial Partner of Shadow Cloud PC",
-                "resourceId": {
-                    "kind": "youtube#channel",
-                    "channelId": "UC81cE2EcYPQH0VFSk_354oQ"
-                },
-                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPCspwHmcKKipsKKGem_PMXSMc9U6HBeWrua9VrGw=s88-c-k-c0x00ffffff-no-rj"
-                    },
-                    "medium": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPCspwHmcKKipsKKGem_PMXSMc9U6HBeWrua9VrGw=s240-c-k-c0x00ffffff-no-rj"
-                    },
-                    "high": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPCspwHmcKKipsKKGem_PMXSMc9U6HBeWrua9VrGw=s800-c-k-c0x00ffffff-no-rj"
-                    }
-                }
-            }
-        },
-        {
-            "kind": "youtube#subscription",
-            "etag": "gPFe_PxgMd8CouIZk7HqvAARd1E",
-            "id": "-9UIewmiCcvHHPnhD2mpwqtPFQ31imnofbuGU9Ki9WM",
-            "snippet": {
-                "publishedAt": "2023-05-31T21:31:11.503289Z",
-                "title": "Marques Brownlee",
-                "description": "MKBHD: Quality Tech Videos | YouTuber | Geek | Consumer Electronics | Tech Head | Internet Personality!\n\nbusiness@MKBHD.com\n\nNYC",
-                "resourceId": {
-                    "kind": "youtube#channel",
-                    "channelId": "UCBJycsmduvYEL83R_U4JriQ"
-                },
-                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://yt3.ggpht.com/lkH37D712tiyphnu0Id0D5MwwQ7IRuwgQLVD05iMXlDWO-kDHut3uI4MgIEAQ9StK0qOST7fiA=s88-c-k-c0x00ffffff-no-rj"
-                    },
-                    "medium": {
-                        "url": "https://yt3.ggpht.com/lkH37D712tiyphnu0Id0D5MwwQ7IRuwgQLVD05iMXlDWO-kDHut3uI4MgIEAQ9StK0qOST7fiA=s240-c-k-c0x00ffffff-no-rj"
-                    },
-                    "high": {
-                        "url": "https://yt3.ggpht.com/lkH37D712tiyphnu0Id0D5MwwQ7IRuwgQLVD05iMXlDWO-kDHut3uI4MgIEAQ9StK0qOST7fiA=s800-c-k-c0x00ffffff-no-rj"
-                    }
-                }
-            }
-        },
-        {
-            "kind": "youtube#subscription",
-            "etag": "7WBlrwvSg1jZgnXPAhvalYrY-jk",
-            "id": "-9UIewmiCcvHHPnhD2mpwtmkGGMwwlHhC90PyR_SIxs",
-            "snippet": {
-                "publishedAt": "2023-05-31T21:31:12.083244Z",
-                "title": "Mathologer",
-                "description": "Enter the world of the Mathologer for really accessible explanations of hard and beautiful math(s). \n\nIn real life the Mathologer is a math(s) professor at Monash University in Melbourne, Australia and goes by the name of Burkard Polster. \nThese days Marty Ross another math(s) professor, great friend and collaborator for over 20 years also plays a huge role behind the scenes, honing the math(s) and the video scripts with Burkard. And there are  Tristan Tillij and Eddie Price who complete the Mathologer team, tirelessly proofreading and critiquing the scripts and providing lots of original ideas. If you like Mathologer, also check out years worth of free original maths resources on Burkard and Marty's site http://www.qedcat.com.",
-                "resourceId": {
-                    "kind": "youtube#channel",
-                    "channelId": "UC1_uAIS3r8Vu6JjXWvastJg"
-                },
-                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOWzGUjzESwTMOPvMZ1YMFaEUHmNLHogwa_bZxeMA=s88-c-k-c0x00ffffff-no-rj"
-                    },
-                    "medium": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOWzGUjzESwTMOPvMZ1YMFaEUHmNLHogwa_bZxeMA=s240-c-k-c0x00ffffff-no-rj"
-                    },
-                    "high": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOWzGUjzESwTMOPvMZ1YMFaEUHmNLHogwa_bZxeMA=s800-c-k-c0x00ffffff-no-rj"
-                    }
-                }
-            }
-        },
-        {
-            "kind": "youtube#subscription",
-            "etag": "tvoK0ii0SS3TIXoL5ch2EKor1Gs",
-            "id": "-9UIewmiCcucLtvbjmvK-0psOeVYysJ7euIsZ4Q7exg",
-            "snippet": {
-                "publishedAt": "2023-05-31T21:31:12.40617Z",
-                "title": "Matt and Shane's Secret Podcast",
-                "description": "",
-                "resourceId": {
-                    "kind": "youtube#channel",
-                    "channelId": "UC4fZeoNxAXfbIpT3swsVh9w"
-                },
-                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMd38OSJAGbFw43ab-cfFAIB9omtgIL0iEFKn8w=s88-c-k-c0x00ffffff-no-rj"
-                    },
-                    "medium": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMd38OSJAGbFw43ab-cfFAIB9omtgIL0iEFKn8w=s240-c-k-c0x00ffffff-no-rj"
-                    },
-                    "high": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMd38OSJAGbFw43ab-cfFAIB9omtgIL0iEFKn8w=s800-c-k-c0x00ffffff-no-rj"
-                    }
-                }
-            }
-        },
-        {
-            "kind": "youtube#subscription",
-            "etag": "vaDO-VSE2vFvsc1dqR1HMfPeH3o",
-            "id": "-9UIewmiCcvHHPnhD2mpwh0iHndfm41pJaRMILYgAB8",
-            "snippet": {
-                "publishedAt": "2023-05-31T21:31:12.839122Z",
-                "title": "Matt Whitman",
-                "description": "I'm Matt and I'm endlessly curious about the Bible and Christianity and the God those things are about. I was raised around Evangelical Christianity, collected a few degrees about theology and such, pastored churches and then had my faith fall apart. I spent time believing there was no God, but then started over on Christian faith from the beginning, and that's where I am now.\n\nThe idea of an infinite God setting out to redeem a busted up but still beautiful world over the long haul is about the most interesting thing I can imagine, and that (at its core) is what all my videos are about. I make explainer videos, do reviews, tour churches, interview people, make deep-dive history and theology stuff and sometimes I post ridiculous sketches. Feel free to enjoy what you resonate with and ignore the rest.\n\nIf you're here, it's because your curiosity overlaps with mine, and I'm grateful for that. I'm always glad to cross paths with anyone of good will whether we agree on everything or not.",
-                "resourceId": {
-                    "kind": "youtube#channel",
-                    "channelId": "UC3vIOVJiXigzVDA2TYqaa0Q"
-                },
-                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://yt3.ggpht.com/ItwCELXyPkF9QiRjRNSES_kYXLdTMjS77dvpHR_kAi2Q0GbEequl6q38wsnjGqWlvwF86HaP=s88-c-k-c0x00ffffff-no-rj"
-                    },
-                    "medium": {
-                        "url": "https://yt3.ggpht.com/ItwCELXyPkF9QiRjRNSES_kYXLdTMjS77dvpHR_kAi2Q0GbEequl6q38wsnjGqWlvwF86HaP=s240-c-k-c0x00ffffff-no-rj"
-                    },
-                    "high": {
-                        "url": "https://yt3.ggpht.com/ItwCELXyPkF9QiRjRNSES_kYXLdTMjS77dvpHR_kAi2Q0GbEequl6q38wsnjGqWlvwF86HaP=s800-c-k-c0x00ffffff-no-rj"
-                    }
-                }
-            }
-        },
-        {
-            "kind": "youtube#subscription",
-            "etag": "gY0Ew5rCHLh01Dr9MvZ8qQFsxTo",
-            "id": "-9UIewmiCcucLtvbjmvK-_ENTR3kn9Ky728NEokUKZM",
-            "snippet": {
-                "publishedAt": "2023-05-31T21:31:13.243441Z",
-                "title": "MattColbo",
-                "description": "Creator of nonsense.\nNewfoundland, Canada.",
-                "resourceId": {
-                    "kind": "youtube#channel",
-                    "channelId": "UCDyqjn-9rKdcAe0gTMAkqyg"
-                },
-                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOGtAcGZKa9nIu5itS2yW51PH50xnQwHWZohB2Dcg=s88-c-k-c0x00ffffff-no-rj"
-                    },
-                    "medium": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOGtAcGZKa9nIu5itS2yW51PH50xnQwHWZohB2Dcg=s240-c-k-c0x00ffffff-no-rj"
-                    },
-                    "high": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOGtAcGZKa9nIu5itS2yW51PH50xnQwHWZohB2Dcg=s800-c-k-c0x00ffffff-no-rj"
-                    }
-                }
-            }
-        },
-        {
-            "kind": "youtube#subscription",
-            "etag": "gDyX95iE9OUxm9bzBQvc4O1ZzMU",
-            "id": "-9UIewmiCcvHHPnhD2mpwuWfF7H-xSTjDZUjg8mw3d0",
-            "snippet": {
-                "publishedAt": "2023-05-31T21:31:13.725021Z",
-                "title": "Matthew Colville",
-                "description": "MCDM presents: Running The Game. \n\nMy name's Matt Colville, I'm a writer and designer in video games and this is my channel where we talk about nerd stuff! Mostly learning how to be a Dungeon Master, my weekly game (stream archive) and occasionally movies.\n\nTwitter: @mattcolville\nTwitch: www.twitch.tv/matthew_colville\nReddit: https://www.reddit.com/r/mattcolville/",
-                "resourceId": {
-                    "kind": "youtube#channel",
-                    "channelId": "UCkVdb9Yr8fc05_VbAVfskCA"
-                },
-                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOWaDvLZBsASg9Lg_xIrhrCt9QktPB0bSxsTpm7=s88-c-k-c0x00ffffff-no-rj"
-                    },
-                    "medium": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOWaDvLZBsASg9Lg_xIrhrCt9QktPB0bSxsTpm7=s240-c-k-c0x00ffffff-no-rj"
-                    },
-                    "high": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOWaDvLZBsASg9Lg_xIrhrCt9QktPB0bSxsTpm7=s800-c-k-c0x00ffffff-no-rj"
-                    }
-                }
-            }
-        },
-        {
-            "kind": "youtube#subscription",
-            "etag": "cuQV1hPkFwBdDviih-SwTU548eU",
-            "id": "-9UIewmiCcvHHPnhD2mpwknLJPlR0poIqNEGOTSWyr0",
-            "snippet": {
-                "publishedAt": "2023-05-31T21:31:14.167477Z",
-                "title": "maxmoefoe",
-                "description": "I make terrible videos\n\nAll business and business related inquiries, contact me on maxmoefoe@gmail.com\n(business only)",
-                "resourceId": {
-                    "kind": "youtube#channel",
-                    "channelId": "UCny_vGt2N7_QJ5qBOAHxlcw"
-                },
-                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqN5T6cRLB_Ihsun8hKi2ylKa92KSkg-4-WQcpbJ=s88-c-k-c0x00ffffff-no-rj"
-                    },
-                    "medium": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqN5T6cRLB_Ihsun8hKi2ylKa92KSkg-4-WQcpbJ=s240-c-k-c0x00ffffff-no-rj"
-                    },
-                    "high": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqN5T6cRLB_Ihsun8hKi2ylKa92KSkg-4-WQcpbJ=s800-c-k-c0x00ffffff-no-rj"
-                    }
-                }
-            }
-        },
         {
             "kind": "youtube#subscription",
             "etag": "bfeqrUKoc2uJ3KhceSQr_C4QbuQ",
@@ -1180,7 +972,7 @@
         },
         {
             "kind": "youtube#subscription",
-            "etag": "LGpOZ7mOWnV_3Td3cjkmVn80zkk",
+            "etag": "FGg5kcK3Vq_plRd62ELL1IYzz3c",
             "id": "-9UIewmiCcvHHPnhD2mpwggrV_sLKdhPRR7Vmw3nr8E",
             "snippet": {
                 "publishedAt": "2023-05-31T21:31:29.689084Z",
@@ -1193,13 +985,13 @@
                 "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
                 "thumbnails": {
                     "default": {
-                        "url": "https://yt3.ggpht.com/veKdZPqUnMmh3dmQz3x8iB2VXp47yeS0wvaV8pMld9gZmT163XPkIwN0eVgbb1PU75qBeElR=s88-c-k-c0x00ffffff-no-rj"
+                        "url": "https://yt3.ggpht.com/KifPOBLcqEqqpCOOJPeGY-5doDLywiqBcOd3OAbBI79pzU80X4eOUYWg80JQ4DVO5WNYsclm=s88-c-k-c0x00ffffff-no-rj"
                     },
                     "medium": {
-                        "url": "https://yt3.ggpht.com/veKdZPqUnMmh3dmQz3x8iB2VXp47yeS0wvaV8pMld9gZmT163XPkIwN0eVgbb1PU75qBeElR=s240-c-k-c0x00ffffff-no-rj"
+                        "url": "https://yt3.ggpht.com/KifPOBLcqEqqpCOOJPeGY-5doDLywiqBcOd3OAbBI79pzU80X4eOUYWg80JQ4DVO5WNYsclm=s240-c-k-c0x00ffffff-no-rj"
                     },
                     "high": {
-                        "url": "https://yt3.ggpht.com/veKdZPqUnMmh3dmQz3x8iB2VXp47yeS0wvaV8pMld9gZmT163XPkIwN0eVgbb1PU75qBeElR=s800-c-k-c0x00ffffff-no-rj"
+                        "url": "https://yt3.ggpht.com/KifPOBLcqEqqpCOOJPeGY-5doDLywiqBcOd3OAbBI79pzU80X4eOUYWg80JQ4DVO5WNYsclm=s800-c-k-c0x00ffffff-no-rj"
                     }
                 }
             }
@@ -1304,6 +1096,214 @@
                     },
                     "high": {
                         "url": "https://yt3.ggpht.com/ytc/AGIKgqPDD4S3dCRl2wxBNvbffYYacSDvw3Cs_wfJHJYxqw=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "r-ISvAo1BE742WC9rxKelFYLcZ4",
+            "id": "-9UIewmiCcvHHPnhD2mpwpjIAqmMJcVJMNzssJEkuzc",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:32.588432Z",
+                "title": "nigahiga",
+                "description": "Send me stuff here!\nPO BOX 232355 Las Vegas, NV 89105\n\nFilm / Television / Personal Appearances / Media Contact\nBusiness Inquiries Only:\nEmail: Media@HigaTV.com\n\nMy 2nd Channel:\nhttp://www.youtube.com/HigaTV\n\nAlso check out my Twitter:\nhttp://www.twitter.com/TheRealRyanHiga\n\nFacebook:\nhttp://www.facebook.com/higatv\n\nInstagram\nhttps://www.instagram.com/notryanhiga/\n\nWeibo:\n http://www.weibo.com/ryanhiga",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCSAUGyc_xA8uYzaIVG6MESQ"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNL1Ctj-3ezrLCL5GdtLz6c5hybfZgsOWwvGnThnw=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNL1Ctj-3ezrLCL5GdtLz6c5hybfZgsOWwvGnThnw=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNL1Ctj-3ezrLCL5GdtLz6c5hybfZgsOWwvGnThnw=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "rdVZWy_7uz6-ySkGEdAcuVjXYsc",
+            "id": "-9UIewmiCcvHHPnhD2mpwtiv1YPy1xke79x6j39vv4U",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:32.901325Z",
+                "title": "NightHawkInLight",
+                "description": "Thanks for stopping by! My name is Ben. I turn boring things into awesome things. I've been creating and filming projects and science experiments since 2006 and have had the amazing privilege of seeing them bring happiness to millions of people. Please consider supporting my work on Patreon: https://www.patreon.com/NightHawkProjects\n\nContact:\nNightHawkVideoResponse[at]gmail.com",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCFtc3XdXgLFwhlDajMGK69w"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMKZ6QBspLf1vWaGiI5ctjk0ncoAGs4Oh0YSlYYZw=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMKZ6QBspLf1vWaGiI5ctjk0ncoAGs4Oh0YSlYYZw=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMKZ6QBspLf1vWaGiI5ctjk0ncoAGs4Oh0YSlYYZw=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "8R72xug-hmX5NvXVX1JLr4wWPWo",
+            "id": "-9UIewmiCcvHHPnhD2mpwqOLaqRa5r7wmhBqoHgSXu0",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:33.317972Z",
+                "title": "NightWng120",
+                "description": "9/11",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsN6BZM-tJ65Xs5xHeTINIA"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPEJDelhi1VIOSUNanNKcjs-yycsRNINEkusjlVWQ=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPEJDelhi1VIOSUNanNKcjs-yycsRNINEkusjlVWQ=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPEJDelhi1VIOSUNanNKcjs-yycsRNINEkusjlVWQ=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "ZyAyvjLV6Gp3AJRE4wwA6-xJNZ8",
+            "id": "-9UIewmiCcucLtvbjmvK-z7jhzNmFuuRVuJnJ69duZU",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:33.609054Z",
+                "title": "NileBlue",
+                "description": "",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC1D3yD4wlPMico0dss264XA"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNVoypRWkdikx4TRnuU_eJxrBq0McipaFoW-AxlQw=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNVoypRWkdikx4TRnuU_eJxrBq0McipaFoW-AxlQw=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNVoypRWkdikx4TRnuU_eJxrBq0McipaFoW-AxlQw=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "pk-N0TFW5-rMxdsiUbuihqy0sCI",
+            "id": "-9UIewmiCcvHHPnhD2mpwiN2vI4NBSq9Td6lpSbjPPc",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:34.018075Z",
+                "title": "NileRed",
+                "description": "Capturing the natural beauty of chemistry\n\nI find that chemistry is often taught poorly or without a purpose. Because of this, people tend to lose interest and sometimes even start to hate it. In each video that I make, I try to balance theory with purpose. My goal is to capture the natural beauty of chemistry in fun and interesting ways.\n\nIn terms of education, I have a BSc in Biochemistry, with a minor in pharmacology. However, I've always been a lot more drawn to applied chemistry. So after finishing my degree, I worked as a lab tech in an organic lab, and then as a chemistry grad student. However, I ended up leaving my graduate studies early to focus on this channel. Now, making chemistry videos has become my full-time job!\n\nEmail: admin@nilered.ca",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCFhXFikryT4aFcLkLw2LBLA"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNteHNAHEfbowpDliOTM5nUqghOaQdwPeCZibCQXA=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNteHNAHEfbowpDliOTM5nUqghOaQdwPeCZibCQXA=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNteHNAHEfbowpDliOTM5nUqghOaQdwPeCZibCQXA=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "7o5WSKxV6R9RGbzexWqLrNHVZE0",
+            "id": "-9UIewmiCcs_02p8CEaP-30wY8tuTQ4_bVXVwywMuUw",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:34.303237Z",
+                "title": "NileRed Shorts",
+                "description": "I'll be using this channel to cover smaller/shorter projects that feel quite different than what's seen on NileRed. I'll also be using this channel to combine all of the shorter videos that I've made on other platforms (Snapchat, Instagram, Tiktok, Twitter, etc), but I'll also make videos that will be posted here before anywhere else!",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCA0mlN90EHCizvo101nbr-g"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPALCEl5eL-cpF5hFY4k6AucroIgYZjgmfAobGk=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPALCEl5eL-cpF5hFY4k6AucroIgYZjgmfAobGk=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPALCEl5eL-cpF5hFY4k6AucroIgYZjgmfAobGk=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "fuU18WGK2uW8i2XwHnJahnJ-5rI",
+            "id": "-9UIewmiCcvHHPnhD2mpwlvx8hRa6nSkku-eQIo3_WU",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:34.751056Z",
+                "title": "Niles Johnson",
+                "description": "",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC0pFtzFSMe5xvN_GwCF3VxA"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMtBqD_N-i2uGT1KMcBdgI-tL5iKTpiYC7zc8HMEQ=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMtBqD_N-i2uGT1KMcBdgI-tL5iKTpiYC7zc8HMEQ=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMtBqD_N-i2uGT1KMcBdgI-tL5iKTpiYC7zc8HMEQ=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "0Gyyb8Nc8-kOKQjb9SaPlCv-1wk",
+            "id": "-9UIewmiCcvHHPnhD2mpwkJmlfRhQilJIaodHGooNcg",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:35.258701Z",
+                "title": "NintendoBlackCrisis",
+                "description": "Breath of the Wild theorist, Nintendo enthusiast as well as a huge physics nerd! Only those with the highest of IQ can understand my channel and its content. Those that don't fit into that criteria are also welcome to stay though!\n\n\nFollow me on twitter\nhttps://twitter.com/\n\nSupport me on patreon\nhttps://www.patreon.com/NintendoBlackCrisis\n\nCheck out our discord server\nhttps://discord.gg/xNQ8TaV\n\nChannel banner made by @Purrdemonium\nhttps://twitter.com/Purrdemonium",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCftyIWbjCPJs4KSrFciMqkA"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMwl5avbwosHcKtlEin9eb61yEYvuG6CEtDgveslA=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMwl5avbwosHcKtlEin9eb61yEYvuG6CEtDgveslA=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMwl5avbwosHcKtlEin9eb61yEYvuG6CEtDgveslA=s800-c-k-c0x00ffffff-no-rj"
                     }
                 }
             }

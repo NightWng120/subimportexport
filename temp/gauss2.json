@@ -1,247 +1,13 @@
 {
     "kind": "youtube#SubscriptionListResponse",
-    "etag": "gca96-rsUbdVdeuGNJ0P89w7oRg",
+    "etag": "LXHCzQ8kOlVee_g-sEZCFZ2BkoI",
     "nextPageToken": "CJYBEAA",
     "prevPageToken": "CGQQAQ",
     "pageInfo": {
-        "totalResults": 403,
+        "totalResults": 597,
         "resultsPerPage": 50
     },
     "items": [
-        {
-            "kind": "youtube#subscription",
-            "etag": "Ddl7DuD8GCXCfz6egJhosXK7qEw",
-            "id": "-9UIewmiCcvHHPnhD2mpwvNmI9LiS1iFcxa_XCBgKr0",
-            "snippet": {
-                "publishedAt": "2023-05-31T21:25:36.91181Z",
-                "title": "Cracka Ton",
-                "description": "I make TF2 and YTPs\nI like honda civic\n\n\n\nTwitter: @NewbyTon \nfollow me or I'll follow you to your house and watch you sleep",
-                "resourceId": {
-                    "kind": "youtube#channel",
-                    "channelId": "UCVAJ3lPOjZoWY8Co90mM4KA"
-                },
-                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://yt3.ggpht.com/0sIbPk98l-qoldK57vPszYRk88AZcbYvrZd7R6jWZ23YZUi7PDit1nXr5Y5G_QRCblaUF91lUjs=s88-c-k-c0x00ffffff-no-rj"
-                    },
-                    "medium": {
-                        "url": "https://yt3.ggpht.com/0sIbPk98l-qoldK57vPszYRk88AZcbYvrZd7R6jWZ23YZUi7PDit1nXr5Y5G_QRCblaUF91lUjs=s240-c-k-c0x00ffffff-no-rj"
-                    },
-                    "high": {
-                        "url": "https://yt3.ggpht.com/0sIbPk98l-qoldK57vPszYRk88AZcbYvrZd7R6jWZ23YZUi7PDit1nXr5Y5G_QRCblaUF91lUjs=s800-c-k-c0x00ffffff-no-rj"
-                    }
-                }
-            }
-        },
-        {
-            "kind": "youtube#subscription",
-            "etag": "TcrHiGdeEzk_B2tvJfEhXUOSz04",
-            "id": "-9UIewmiCcvHHPnhD2mpwtm9U8h8UQRr-hiYCJ2FO84",
-            "snippet": {
-                "publishedAt": "2023-05-31T21:25:37.476782Z",
-                "title": "CrashCourse",
-                "description": "At Crash Course, we believe that high-quality educational videos should be available to everyone for free! \n\nSubscribe for weekly videos from our current courses! Right now, we're producing Climate & Energy. The Crash Course team has produced more than 45 courses on a wide variety of subjects, including organic chemistry, literature, world history, biology, philosophy, theater, ecology, and many more!  We also recently teamed up with Arizona State University to bring you more courses on the Study Hall channel.\n\nHelp support Crash Course at Patreon.com/CrashCourse.",
-                "resourceId": {
-                    "kind": "youtube#channel",
-                    "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q"
-                },
-                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNDCC3BJ44W3MDohf4nPpubWUJjtUNZj335w-0UiA=s88-c-k-c0x00ffffff-no-rj"
-                    },
-                    "medium": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNDCC3BJ44W3MDohf4nPpubWUJjtUNZj335w-0UiA=s240-c-k-c0x00ffffff-no-rj"
-                    },
-                    "high": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNDCC3BJ44W3MDohf4nPpubWUJjtUNZj335w-0UiA=s800-c-k-c0x00ffffff-no-rj"
-                    }
-                }
-            }
-        },
-        {
-            "kind": "youtube#subscription",
-            "etag": "8WKiDkQqt4Vx-Qhtlw3sIUvDd5w",
-            "id": "-9UIewmiCcvHHPnhD2mpwu8lhptzGBw_6JbkmeLMHww",
-            "snippet": {
-                "publishedAt": "2023-05-31T21:25:38.092074Z",
-                "title": "Cryaotic",
-                "description": "A dude who played Amnesia in 2010 and is typing in third-person now in 2020 describing his channel awkwardly but can't.\n\nI stream a lot because performance anxiety but now want to use the tube for proper passion project work and things I'm (at that moment at least) confident in - at least that's the dream anyway.\n\nTwitter if you need me, I read everything, but my socially-malformed being doesn't always reciprocate. As friggin' TINA would say: \"It's not you, it's me.\"",
-                "resourceId": {
-                    "kind": "youtube#channel",
-                    "channelId": "UCu2yrDg7wROzElRGoLQH82A"
-                },
-                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMqyqp1UL9W5R70hk-h_TaPBE_iYBT0XRu94tEf=s88-c-k-c0x00ffffff-no-rj"
-                    },
-                    "medium": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMqyqp1UL9W5R70hk-h_TaPBE_iYBT0XRu94tEf=s240-c-k-c0x00ffffff-no-rj"
-                    },
-                    "high": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMqyqp1UL9W5R70hk-h_TaPBE_iYBT0XRu94tEf=s800-c-k-c0x00ffffff-no-rj"
-                    }
-                }
-            }
-        },
-        {
-            "kind": "youtube#subscription",
-            "etag": "iG3sNG_ZWAocidvhI-_v6Tgvaxg",
-            "id": "-9UIewmiCcvHHPnhD2mpwkQUOrQWmP0L8Xq9JzQ9RaU",
-            "snippet": {
-                "publishedAt": "2023-05-31T21:25:38.478647Z",
-                "title": "Cyber Knight",
-                "description": "When I am found to be deceased and unable to continue the Minesweeper Let's Play series, anyone else is allowed to continue the series on their own channel so long as they follow the proper format of the series. \n\n- Each episode must have the title \"Let's Play Minesweeper - Episode (N of previous episode + 1)\" regardless of whether the English language and modern counting system have changed or gone extinct. \n- Each episode must be roughly ten minutes in length. \n- Each episode must be a 2-dimensional recording of the game Minesweeper. No live events, holographic recordings, etc.\n- This exact text must be copied and pasted on one's about page (or equivalent on another website) if they take up the mantle.\n- One video shall be uploaded per day (24 hours). If you miss a day, keep a log of missed episodes and upload multiple later.\n- The series is not allowed to end.\n- If the current showrunner fails to meet these standards or is otherwise considered inadequate, the audience is allowed to",
-                "resourceId": {
-                    "kind": "youtube#channel",
-                    "channelId": "UC6PXCLVBKZl2krhqkYTqNeg"
-                },
-                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://yt3.ggpht.com/Zh1tLhtzprVhNHP5JYH0KkWNioybjkmFBf6fafEjdvJ3Jn3WEoVF8uYJf_qXoaeHa68irRP8=s88-c-k-c0x00ffffff-no-rj"
-                    },
-                    "medium": {
-                        "url": "https://yt3.ggpht.com/Zh1tLhtzprVhNHP5JYH0KkWNioybjkmFBf6fafEjdvJ3Jn3WEoVF8uYJf_qXoaeHa68irRP8=s240-c-k-c0x00ffffff-no-rj"
-                    },
-                    "high": {
-                        "url": "https://yt3.ggpht.com/Zh1tLhtzprVhNHP5JYH0KkWNioybjkmFBf6fafEjdvJ3Jn3WEoVF8uYJf_qXoaeHa68irRP8=s800-c-k-c0x00ffffff-no-rj"
-                    }
-                }
-            }
-        },
-        {
-            "kind": "youtube#subscription",
-            "etag": "c98zu0Bx2UpmMkNKc6ExNJtcNVM",
-            "id": "-9UIewmiCcvHHPnhD2mpwn1ZnK9lh7rdRF4Phos3t2c",
-            "snippet": {
-                "publishedAt": "2023-05-31T21:25:38.728159Z",
-                "title": "D!NG",
-                "description": "Subscribe for Wacky Gifts, Amazing Apps, and The Best of the Internet.\n\nD!ING launched in October 2015 and is powered by Vsauce.\n\n************************************************************\u00ad***\n\nD!NG is...\n\nMichael Stevens: Producer/Host of Vsauce1/D!NG \n\nKevin Lieber: Producer/Host of Vsauce2/D!NG\n\nJake Roper: Producer/Host of Vsauce3/D!NG \n\nEric Langlay: VFX for Vsauce1/2/3/D!NG\n\nHannah Canetti: Writer/Editor for D!NG\n\nJack Merline: Writer/Editor for D!NG \n\nAlisha Garza: Vsauce Coordinator\n\nYou: Thanks for watching!",
-                "resourceId": {
-                    "kind": "youtube#channel",
-                    "channelId": "UClq42foiSgl7sSpLupnugGA"
-                },
-                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPF3o8QK6ig6bSKZccQevxf4tEWhgwrq-kTYQ6UbQ=s88-c-k-c0x00ffffff-no-rj"
-                    },
-                    "medium": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPF3o8QK6ig6bSKZccQevxf4tEWhgwrq-kTYQ6UbQ=s240-c-k-c0x00ffffff-no-rj"
-                    },
-                    "high": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPF3o8QK6ig6bSKZccQevxf4tEWhgwrq-kTYQ6UbQ=s800-c-k-c0x00ffffff-no-rj"
-                    }
-                }
-            }
-        },
-        {
-            "kind": "youtube#subscription",
-            "etag": "SgbwwtQ8on8SnpfWfYg537swRqo",
-            "id": "-9UIewmiCcvHHPnhD2mpwme7DaqkU3uUMsZ_-VfGgj0",
-            "snippet": {
-                "publishedAt": "2023-05-31T21:25:39.304541Z",
-                "title": "Danger Dolan",
-                "description": "All future content is now on Super Planet Dolan: https://www.youtube.com/c/superplanetdolan\n\nBusiness emails to contact@planetdolan.com",
-                "resourceId": {
-                    "kind": "youtube#channel",
-                    "channelId": "UC3siPQX0fOwYDrVcyQ3Smvg"
-                },
-                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqM_5-JSP8D9OgzXC9sWY6k69NGDi5PDEDXTQPSdVg=s88-c-k-c0x00ffffff-no-rj"
-                    },
-                    "medium": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqM_5-JSP8D9OgzXC9sWY6k69NGDi5PDEDXTQPSdVg=s240-c-k-c0x00ffffff-no-rj"
-                    },
-                    "high": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqM_5-JSP8D9OgzXC9sWY6k69NGDi5PDEDXTQPSdVg=s800-c-k-c0x00ffffff-no-rj"
-                    }
-                }
-            }
-        },
-        {
-            "kind": "youtube#subscription",
-            "etag": "-h-EvlRTGFr41y24Dg0-IN30B2Q",
-            "id": "-9UIewmiCcvHHPnhD2mpwhgyJ8_UIi1SCyBtzjTgT1k",
-            "snippet": {
-                "publishedAt": "2023-05-31T21:25:39.63396Z",
-                "title": "Daniel Thrasher",
-                "description": "I'm here to make your day a little easier.",
-                "resourceId": {
-                    "kind": "youtube#channel",
-                    "channelId": "UCnZx--LpG2spgmlxOcC-DRA"
-                },
-                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqM35vW_Fkvh4zfszcYL9f7GkIKynWpPyyL_jkJP=s88-c-k-c0x00ffffff-no-rj"
-                    },
-                    "medium": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqM35vW_Fkvh4zfszcYL9f7GkIKynWpPyyL_jkJP=s240-c-k-c0x00ffffff-no-rj"
-                    },
-                    "high": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqM35vW_Fkvh4zfszcYL9f7GkIKynWpPyyL_jkJP=s800-c-k-c0x00ffffff-no-rj"
-                    }
-                }
-            }
-        },
-        {
-            "kind": "youtube#subscription",
-            "etag": "Dyvp8m8-K16dkkiIpiz3S-YbgME",
-            "id": "-9UIewmiCcucLtvbjmvK-yXe4ufq_njJGvy8EPjGxRU",
-            "snippet": {
-                "publishedAt": "2023-05-31T21:25:40.047438Z",
-                "title": "DankPods",
-                "description": "If it runs on electricity there's a chance I'll yell at it.",
-                "resourceId": {
-                    "kind": "youtube#channel",
-                    "channelId": "UC7Jwj9fkrf1adN4fMmTkpug"
-                },
-                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://yt3.ggpht.com/v3FA-Rawm2CTBZksBnzjqax7-La64kQYWDpLXA8VqFlsMDNKz3ZkZKC2D1JRDcBe6pRfKHXDfg=s88-c-k-c0x00ffffff-no-rj"
-                    },
-                    "medium": {
-                        "url": "https://yt3.ggpht.com/v3FA-Rawm2CTBZksBnzjqax7-La64kQYWDpLXA8VqFlsMDNKz3ZkZKC2D1JRDcBe6pRfKHXDfg=s240-c-k-c0x00ffffff-no-rj"
-                    },
-                    "high": {
-                        "url": "https://yt3.ggpht.com/v3FA-Rawm2CTBZksBnzjqax7-La64kQYWDpLXA8VqFlsMDNKz3ZkZKC2D1JRDcBe6pRfKHXDfg=s800-c-k-c0x00ffffff-no-rj"
-                    }
-                }
-            }
-        },
-        {
-            "kind": "youtube#subscription",
-            "etag": "ZMw_TVK__2RQqUQHE7s6dzLXCzY",
-            "id": "-9UIewmiCcvHHPnhD2mpwgCaFSu0ruHpjTWrsYO7FWI",
-            "snippet": {
-                "publishedAt": "2023-05-31T21:25:40.550372Z",
-                "title": "Danny Gonzalez",
-                "description": "\ud83d\ude0e",
-                "resourceId": {
-                    "kind": "youtube#channel",
-                    "channelId": "UCSUf5_EPEfl4zlBKZHkZdmw"
-                },
-                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqP045olBUoiqooSR_s30zgaI4goBHx8zr3WJogFAw=s88-c-k-c0x00ffffff-no-rj"
-                    },
-                    "medium": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqP045olBUoiqooSR_s30zgaI4goBHx8zr3WJogFAw=s240-c-k-c0x00ffffff-no-rj"
-                    },
-                    "high": {
-                        "url": "https://yt3.ggpht.com/ytc/AGIKgqP045olBUoiqooSR_s30zgaI4goBHx8zr3WJogFAw=s800-c-k-c0x00ffffff-no-rj"
-                    }
-                }
-            }
-        },
         {
             "kind": "youtube#subscription",
             "etag": "BRfzIU3Silco9u-fLe4gU5yycps",
@@ -1304,6 +1070,240 @@
                     },
                     "high": {
                         "url": "https://yt3.ggpht.com/ytc/AGIKgqNEvTEFUO7GjZ-D8vSzyNFBzCFPxia2uD1ulXZ_=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "v-btNMt2MajPGKl4EZQaEQapQN0",
+            "id": "-9UIewmiCcucLtvbjmvK-4vTSbuEFO2nmGEBSzI5Hfc",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:25:57.180456Z",
+                "title": "Epic Math Time",
+                "description": "I hunt and catalogue mathematical entities in the abstract void.\n\n\"Following our will and wind, we may just go where no one's been. We'll ride the spiral to the end, we may just go where no one's been.\"\n\njon@epicmathtime.com",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCisjF-Un7hf9lsMhoStF3OQ"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/Lm2Zqti4WN34Da0UgH3QiUiep69OwPWHUMi7tXkr3-2gu8CQxzFpRStJknlD_oDqclSseosPLDo=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/Lm2Zqti4WN34Da0UgH3QiUiep69OwPWHUMi7tXkr3-2gu8CQxzFpRStJknlD_oDqclSseosPLDo=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/Lm2Zqti4WN34Da0UgH3QiUiep69OwPWHUMi7tXkr3-2gu8CQxzFpRStJknlD_oDqclSseosPLDo=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "rKeoWU3iAM7nsinnJl8wOJi0sLA",
+            "id": "-9UIewmiCcvHHPnhD2mpwocgCcJb0qC62js7jk2H4Do",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:25:57.924815Z",
+                "title": "Epic Meal Time",
+                "description": "We make your dreams come true... and then we eat them.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCYjk_zY-iYR8YNfJmuzd70A"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOx5RTq00MZvJMjeznFpTcFllmk1rTJb9WafA8IGHY=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOx5RTq00MZvJMjeznFpTcFllmk1rTJb9WafA8IGHY=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOx5RTq00MZvJMjeznFpTcFllmk1rTJb9WafA8IGHY=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "Anh9DEW-z7GVojQnnLzUCy3vJO4",
+            "id": "-9UIewmiCcvHHPnhD2mpwoaqQKK48FJj31IzPIbE1Bo",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:25:58.357344Z",
+                "title": "ERB",
+                "description": "The Epic Rap Battles of History is a comedy series created by Nice Peter & epicLLOYD. Over 10+ years we have created over 80 rap battles featuring both historical and fictional characters which have amassed over 3.5 billion views on YouTube. \n\nhttp://www.erbofhistory.com\nhttp://www.patreon.com/erb\nhttp://www.erbmerch.com",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCMu5gPmKp5av0QCAajKTMhw"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMt7EOohDtVUe2SJVgEyCGOox-coAoctSwAtaxrNg=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMt7EOohDtVUe2SJVgEyCGOox-coAoctSwAtaxrNg=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMt7EOohDtVUe2SJVgEyCGOox-coAoctSwAtaxrNg=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "J7S64hymLv_wkyKyUiFN2ksqbzI",
+            "id": "-9UIewmiCcvHHPnhD2mpwtlRBfZuDsvES0TVZWFsoYM",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:25:58.678432Z",
+                "title": "Eric Weinstein",
+                "description": "This is channel is constructed as a convenience to those who may have heard me speak or read something I've written and who may have become interested in my thoughts on Physics, Mathematics, Economics, Atheism, Faith and their roles in Science, Radical Approaches to Education, Risk, Longevity, Selection and Biology, Professional Wrestling and other topics. \n\nSome thinking from work done by myself while at INETeconomics, Thiel Capital, The Sloan Foundation, Harvard University, MIT, Hebrew University, Oxford University, University of Pennsylvania and the NBER.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCR85PW_B_7_Aisx5vNS7Gjw"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPgZG_SAeBZY7hEnwfcOkrY4fSETK_xr2GC52iW=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPgZG_SAeBZY7hEnwfcOkrY4fSETK_xr2GC52iW=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPgZG_SAeBZY7hEnwfcOkrY4fSETK_xr2GC52iW=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "-zaoJDxcos8ls8YqixWpOjjwMMM",
+            "id": "-9UIewmiCcvHHPnhD2mpwpfcfERy5Et_q5MyzqmlCDg",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:25:59.176061Z",
+                "title": "eth3r net",
+                "description": "",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCODP12UtVxGvVs_xbnpZHZA"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMvypi0ZLDKbVUb3tSFR50-izVU9ymv1q4v44fANQ=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMvypi0ZLDKbVUb3tSFR50-izVU9ymv1q4v44fANQ=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMvypi0ZLDKbVUb3tSFR50-izVU9ymv1q4v44fANQ=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "XkSzYRcr8WDRIlbOpbMnbbOeXXk",
+            "id": "-9UIewmiCcvHHPnhD2mpwnOLPiSsFpSW5hGPRsdaqvM",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:25:59.612987Z",
+                "title": "Ethan and Hila",
+                "description": "",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC7pp40MU_6rLK5pvJYG3d0Q"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPEv3NJfqzqP6V3nuW9T6rTwrKqfgxhAUIapr2Vwg=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPEv3NJfqzqP6V3nuW9T6rTwrKqfgxhAUIapr2Vwg=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPEv3NJfqzqP6V3nuW9T6rTwrKqfgxhAUIapr2Vwg=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "9EbYkyF_WzN0K1wr4pPIsjx9xLM",
+            "id": "-9UIewmiCcvHHPnhD2mpwsRTLqMWvXjvV-elmVBQSd0",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:26:00.165203Z",
+                "title": "EthosLab",
+                "description": "Minecraft let's plays and other Minecraft videos. Hello, and welcome to my channel. I forget to edit this to say something even more original.\n\nSpecial Thanks To:\nLtheHedgehog: Video Intros\nRaid3r: Video Intro\nTiggyLi: Channel Banner\nDavyBhoyProductions: Channel Icon\n\nVideo Recording & Editing:\nVideo/Audio is captured using OBS Studio and edited using DaVinci Resolve v15 to a 1920x1080 60FPS MP4.\n\nRecording Mic:\nAT2035 XLR with 2nd Gen Scarlett Solo audio interface.\n\nComputer Specs:\nIntel i7 (9700) 3GHz Processor\nGeForce RTX 2060\n16 GB DDR4 Ram\n240 GB Solid State & 2 TB Hard Drive\nWindows 10 64-bit",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCFKDEp9si4RmHFWJW1vYsMA"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOE4Zt1XIhaAHH51qDgGw3EoMh3asnXzCWKHmOC=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOE4Zt1XIhaAHH51qDgGw3EoMh3asnXzCWKHmOC=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOE4Zt1XIhaAHH51qDgGw3EoMh3asnXzCWKHmOC=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "DWT0Fl0pZDOco5XketN9HDANCMg",
+            "id": "-9UIewmiCcvHHPnhD2mpwts-n4s4ORzhjwK-lOfMwXE",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:26:00.786511Z",
+                "title": "Everyday Astronaut",
+                "description": "Rocket science. A term we all use to describe something incredibly difficult. Trying to grasp all of the concepts involved in rocket science can be incredibly intimidating.\n\nMy name\u2019s Tim Dodd but I'm better known as the Everyday Astronaut. Recently I fell head over heels in love with spaceflight. My appreciation and curiosity for the subject grew into an obsession. Before you knew it, all I wanted to do was learn more and more... the more I learned, the more I wanted to share what was making me so excited. \n\nBut as someone who dropped out of college and has no technical background or degree\u2026 I really felt unqualified for the job of explaining rocket science to anyone. But the fact of the matter is, if I can learn this stuff, anyone can. \n\nRocket science is awesome, and you don\u2019t need to be a rocket scientist to be excited. \n\nEveryday Astronaut. Bringing space down to Earth for everyday people.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC6uKrU_WqJ1R2HMTY3LIx5Q"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqONbsoyp-P3UeTL0cgaKX0LQxydy--KzssoGDlJIg=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqONbsoyp-P3UeTL0cgaKX0LQxydy--KzssoGDlJIg=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqONbsoyp-P3UeTL0cgaKX0LQxydy--KzssoGDlJIg=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "EaBGTnvtWFFc8yh0TnxzlRUg2ts",
+            "id": "-9UIewmiCcvHHPnhD2mpwnGJ8dVkeOc2pXqwrKV-Mfo",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:26:01.218589Z",
+                "title": "ExplosmEntertainment",
+                "description": "Explosm has a new upload schedule! Update your day-planners, wall calendars and sun dials!\nComic Classics are Sundays at 12pm Eastern / 11am Central\nMonday Mashups are Mondays at 12pm Eastern / 11am Central\nCompilations are Wednesdays (every other week) at 12p Eastern / 11am Central\nCyanide & Happiness Shorts are Thursdays at 12pm Eastern / 11am Central\n\nThe C&H Shorts appreciate your Patreon support!\n https://www.patreon.com/cyanide_and_happiness/overview\n\nComics: http://www.explosm.net\nJoking Hazard, our card game: http://store.explosm.net/\n\nMeet us in person at comic conventions and our yearly Banana Bar Crawl in Dallas! Details here: http://www.explosm.net/live",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCWXCrItCF6ZgXrdozUS-Idw"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/l8CuQ4W5IJFLH6vur_w1QyXP3RWQrdjKITrnNYBuq0XxEcGNfs-XRrgZA5SWZSa-4yAwRNZy=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/l8CuQ4W5IJFLH6vur_w1QyXP3RWQrdjKITrnNYBuq0XxEcGNfs-XRrgZA5SWZSa-4yAwRNZy=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/l8CuQ4W5IJFLH6vur_w1QyXP3RWQrdjKITrnNYBuq0XxEcGNfs-XRrgZA5SWZSa-4yAwRNZy=s800-c-k-c0x00ffffff-no-rj"
                     }
                 }
             }

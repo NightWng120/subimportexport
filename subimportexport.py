@@ -11,8 +11,8 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 from googleapiclient.discovery import build
 
-PATH = "/C:/Users/treve/Documents/pythonthings/Scripts/"
-temp = (list(glob.glob("temp/client_secrets*")), [8800,8080,8008])
+#PATH = "/C:/Users/treve/Documents/pythonthings/Scripts/"
+temp = (['secrets/client_secrets0.json', 'secrets/client_secrets1.json', 'secrets/client_secrets2.json'], [8080, 8008, 8800])
 CLIENT_SECRETS = {key[1]:temp[1][key[0]] for key in enumerate(temp[0])}
 
 #CLIENT_SECRET = CLIENT_SECRETS[0]
@@ -46,7 +46,7 @@ def authenticate_user_export(file, user_exists, secrets_key):
           flow.run_local_server(port=CLIENT_SECRETS[secrets_key], prompt='consent',
                                 authorization_prompt_message='We out here')
           credentials = flow.credentials
-    with open(f'{file}.pickle', 'wb') as f:
+    with open(f'temp/{file}.pickle', 'wb') as f:
         print('Saving Credentials for Future Use...\n\n\n')
         pickle.dump(credentials, f)
     return credentials
@@ -154,7 +154,7 @@ def subscriptions_insert(client, properties, **kwargs):
 
 def main():
     #CLIENT_SECRETS = glob.glob("client_secrets*")
-    secrets_key = "temp/client_secrets0.json"
+    secrets_key = "secrets/client_secrets0.json"
     val = True
     files = True
     credentials = None
@@ -194,7 +194,7 @@ def main():
                                     print(CLIENT_SECRETS)
                                     print(f"Current Client Secret: {secrets_key}")
                                     parsedInt = list(map(int, re.findall(r'\d+', secrets_key)))
-                                    next_key = "temp/client_secrets" + str(parsedInt[0] + 1) + ".json"
+                                    next_key = "secrets/client_secrets" + str(parsedInt[0] + 1) + ".json"
                                     if next_key not in CLIENT_SECRETS :
                                         #CLIENT_SECRET = CLIENT_SECRETS[CLIENT_SECRETS.index(CLIENT_SECRET)]
                                         print("Out of client secrets to use")
@@ -250,7 +250,7 @@ def main():
                                     if e.resp.status == 403:
                                         print(f"Current Client Secret: {secrets_key}")
                                         parsedInt = list(map(int, re.findall(r'\d+', secrets_key)))
-                                        next_key = "temp/client_secrets" + str(parsedInt[0] + 1) + ".json"
+                                        next_key = "secrets/client_secrets" + str(parsedInt[0] + 1) + ".json"
                                         if e.resp.status == 403:
                                             print(CLIENT_SECRETS)
                                             print(f"Current Client Secret: {secrets_key}")
@@ -297,7 +297,7 @@ def main():
                         print(f"Current Client Secret: {secrets_key}")
                         print(f'Http Error Code: {e.resp.status}')
                         parsedInt = list(map(int, re.findall(r'\d+', secrets_key)))
-                        next_key = "temp/client_secrets" + str(parsedInt[0] + 1) + ".json"
+                        next_key = "secrets/client_secrets" + str(parsedInt[0] + 1) + ".json"
                         if e.resp.status == 403:
                             print(CLIENT_SECRETS)
                             print(f"Current Client Secret: {secrets_key}")
@@ -320,10 +320,10 @@ def main():
                          subs.append(f"{channel_name}: {channellink}\n")
                     if pageNum < 10:
                         buffer = f"{str(pageNum)}"
-                        dump_to_file(subscriptionitems_list_response, f'{name}{buffer}.json')
+                        dump_to_file(subscriptionitems_list_response, f'temp/{name}{buffer}.json')
                         continue
 
-                    dump_to_file(subscriptionitems_list_response, f'{name}{pageNum}.json')
+                    dump_to_file(subscriptionitems_list_response, f'temp/{name}{pageNum}.json')
 
                 if os.path.exists(f'temp/channelIds_{name}.txt'):
                     open(f'temp/channelIds_{name}.txt', 'w').close()
@@ -348,7 +348,7 @@ def main():
                         print('An HTTP error %d occurred:\n%s' % (e.resp.status, e.content))
                         print(f"Current Client Secret: {secrets_key}")
                         parsedInt = list(map(int, re.findall(r'\d+', secrets_key)))
-                        next_key = "temp/client_secrets" + str(parsedInt[0] + 1) + ".json"
+                        next_key = "secrets/client_secrets" + str(parsedInt[0] + 1) + ".json"
                         if e.resp.status == 403:
                             print(CLIENT_SECRETS)
                             print(f"Current Client Secret: {secrets_key}")
@@ -371,14 +371,14 @@ def main():
                          subs.append(f"{channel_name}: {channellink}\n")
                     if pageNum < 10:
                         buffer = f"{str(pageNum)}"
-                        dump_to_file(subscriptionitems_list_response, f'{name}{buffer}.json')
+                        dump_to_file(subscriptionitems_list_response, f'temp/{name}{buffer}.json')
                         continue
 
-                    dump_to_file(subscriptionitems_list_response, f'{name}{pageNum}.json')
+                    dump_to_file(subscriptionitems_list_response, f'temp/{name}{pageNum}.json')
                 if os.path.exists(f'temp/channelIds_{name}.txt'):
                     open(f'temp/channelIds_{name}.txt', 'w').close()
                 for item in ids:
-                    with open(f'channelIds_{name}.txt', 'a') as f:
+                    with open(f'temp/channelIds_{name}.txt', 'a') as f:
                       f.write(f'{item}\n')
 
             else:
