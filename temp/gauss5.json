@@ -1,0 +1,1312 @@
+{
+    "kind": "youtube#SubscriptionListResponse",
+    "etag": "TZ6Wt3zGct8saSQQ4zhBoV4zx7g",
+    "nextPageToken": "CKwCEAA",
+    "prevPageToken": "CPoBEAE",
+    "pageInfo": {
+        "totalResults": 403,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#subscription",
+            "etag": "9WDLZE5XOx2uEnesnKG3KyG_1Yo",
+            "id": "-9UIewmiCcvHHPnhD2mpwpXHLhkJ7luy2yhIMD5kDUg",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:30:49.905572Z",
+                "title": "JHub",
+                "description": "Having some fun while posting gameplays mainly all things call of duty.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCuUsh8tSpCzQSfTBPXHMlHA"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/Wr_6EblgKtHsb17YO0R9hmSaclLSr2Nqyv9cNmhSdukHn6PlU6hI0wDph-4QGj_4_3SunN3Ebg=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/Wr_6EblgKtHsb17YO0R9hmSaclLSr2Nqyv9cNmhSdukHn6PlU6hI0wDph-4QGj_4_3SunN3Ebg=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/Wr_6EblgKtHsb17YO0R9hmSaclLSr2Nqyv9cNmhSdukHn6PlU6hI0wDph-4QGj_4_3SunN3Ebg=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "-p6AG_BCkWWbGI53VKQ_xfLvBEU",
+            "id": "-9UIewmiCcvHHPnhD2mpwsdi2JvUoxbs4deLbuRHwkE",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:30:50.38178Z",
+                "title": "jikyru",
+                "description": "HI! i'm Ru! I'm an aspiring animator from Canada.\n\u2022 SUPPORT ME ON PATREON \u2022\nSFW patreon - https://www.patreon.com/Jikyru \nNSFW Patreon (must be 18+) - https://www.patreon.com/urykij \n\n\u2022 JOIN THE DISCORD (must be 18+)  \u2022\nhttps://discord.gg/xjE2DApMZF \n\n\u2022 MY SOCIALS \u2022\nInstagram - https://www.instagram.com/jikyru/ \nTwitter - https://twitter.com/jikyru \nTikTok - https://www.tiktok.com/@jikyru?is_from_webapp=1&sender_device=pc",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCvQiFA_LKXIp9xDVA3o28PA"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ZiSxJAOvLRh36v-RNRSBHtaT8EOhcdNbUb4l75cwpgxP2Be2s0nX8IxV2WjxwO9V5UKmsM17jZ0=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ZiSxJAOvLRh36v-RNRSBHtaT8EOhcdNbUb4l75cwpgxP2Be2s0nX8IxV2WjxwO9V5UKmsM17jZ0=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ZiSxJAOvLRh36v-RNRSBHtaT8EOhcdNbUb4l75cwpgxP2Be2s0nX8IxV2WjxwO9V5UKmsM17jZ0=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "TiN0z9qm7aOIDD6aJP8z_M2GAW0",
+            "id": "-9UIewmiCcvHHPnhD2mpwpY7m7vSNFqgHvNRgr5Ptv0",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:30:50.786388Z",
+                "title": "JIMBOTHY",
+                "description": "Welcome to JIMBOTHY, a channel dedicated to the BEST EASTER EGGS in video games from COD WW2, GTA 5, RDR 2, to Fortnite, TOP 5's, TRENDING videos, and GAMING ENTERTAINMENT. We cover a lot of different things from TOP 5, TOP 10 lists of exciting, trending topics - to the latest trends taking the internet by storm - to even exciting Gaming Entertainment videos on the quest to find hidden easter eggs in games. All of this and more is waiting for you on this channel.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCZd0r8Sm9p2j8ixsk6oqqww"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPTVK5nghLqVc_NGyUDp5OEqFHoKoD3mqZIwOhf=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPTVK5nghLqVc_NGyUDp5OEqFHoKoD3mqZIwOhf=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPTVK5nghLqVc_NGyUDp5OEqFHoKoD3mqZIwOhf=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "cULwdKkgwvtxvTgXaeJaHb-uMMg",
+            "id": "-9UIewmiCcucLtvbjmvK-5s-rMWTFY6wBndFNemGowk",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:30:51.235603Z",
+                "title": "Joe On a Boat",
+                "description": "Hi, I'm JOe.\n\nI live on my boat in Marina del rey.  This is my youtube.  Please subscribe and watch youtube.\n\nEpic Code:  0TDQ6Y or OTDQ6Y (i dont know if that was a 0 or an O that i was supposed to put in)",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCbY5HhjlHrK25efi1DoFCFQ"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNUbMtngWOgwpgvSjbMao0dYmYx8vmcStV7zwB9=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNUbMtngWOgwpgvSjbMao0dYmYx8vmcStV7zwB9=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNUbMtngWOgwpgvSjbMao0dYmYx8vmcStV7zwB9=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "ciF9APGBh5QA3kqMVrhQYMxaT8U",
+            "id": "-9UIewmiCcucLtvbjmvK-_KrcfP-W7J5R-Nzc3mXM5k",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:30:51.534509Z",
+                "title": "Joel Creates",
+                "description": "Building improbable and impressively impractical devices",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCHk0IYEDJxQGQ-nbd3yP_KA"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPkY_POGDsnz0993vYP3Tl5YabJ5MWBbxMiKV91uA=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPkY_POGDsnz0993vYP3Tl5YabJ5MWBbxMiKV91uA=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPkY_POGDsnz0993vYP3Tl5YabJ5MWBbxMiKV91uA=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "lny9vNOSEjIFs_sbV1KKjs2I4LI",
+            "id": "-9UIewmiCcvHHPnhD2mpwmH3FcO_PMi4YBm71F0N_JA",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:30:51.839161Z",
+                "title": "Joel Haver",
+                "description": "I am Joel! I make shorts and features and post them all on this channel!\n\nTHE PROMISE:\nIf you make a feature length movie and send it to me, I will watch it. \n\nMaking movies is so possible nowadays, all my features cost $0-$500. There are so many systems in place that keep us unambitious and apathetic in the medium, and I hope the promise that a filmmaker will watch and care about your hard work can be a push some may need to create something bigger.\n\nWith the massive growth of the channel, this promise has become much harder to fulfill but it still stands. With that in mind, really consider what you send me. Maybe don't send your 5 year old film that you don't need to hear any more feedback on, make something new! Also, no compilations of shorts, that's cheating! It may take me months or years to get to your film because of a massive backlog, thank you for your patience.\n\nThe Oscars films are not included in this promise. Otherwise I'd never see another movie again!",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCVIFCOJwv3emlVmBbPCZrvw"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqM1c15JDxddJJlbHkRd6YlQOyTttK8FDfvsE-X6vA=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqM1c15JDxddJJlbHkRd6YlQOyTttK8FDfvsE-X6vA=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqM1c15JDxddJJlbHkRd6YlQOyTttK8FDfvsE-X6vA=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "MSL2p5wT6ifkanNpLAb8h2t7PsE",
+            "id": "-9UIewmiCcvHHPnhD2mpwpy8f3kqD5prcwJ_md_qSr8",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:30:52.145344Z",
+                "title": "JoergSprave",
+                "description": "This channel is all about launchers. \n\nMost of them are powered by rubber, a fascinating material that converts muscle energy into kinetic energy! But we also present bladed weapons and launchers powered by other energy sources. \n\nInventions, reviews, stunts and destruction - if that is what you want, you came to the right place for sure!\n\nLegal Disclosure\nInformation in accordance with Section 5 TMG and \u00a7 55 section 2 RStV\nJ\u00f6rg Sprave\nc/o GoGun GmbH\nKrablerstra\u00dfe 127/Hall 9 \n45326 Essen\nGermany\n\nContact Information\nTelephone: 015156342943\nemail: jsprave@macrosystem.de\nVAT identification number in accordance with Section 27 a of the German VAT act DE305798007",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCVZlxkKqlvVqzRJXhAGq42Q"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqP5o9b7W71vJJLy2q_GJp4GvbWllP3LepOLotSCWA=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqP5o9b7W71vJJLy2q_GJp4GvbWllP3LepOLotSCWA=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqP5o9b7W71vJJLy2q_GJp4GvbWllP3LepOLotSCWA=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "R7H5w3di_7x-Uumv0uCycdc0mrE",
+            "id": "-9UIewmiCcvHHPnhD2mpwmnquDoOwMQ1N-SjvvE-4SE",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:30:52.658345Z",
+                "title": "JonTronShow",
+                "description": "Welcome to JonTron! Hopefully laugh!",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCdJdEguB1F1CiYe7OEi3SBg"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMo_7cRpH4lMQ1fe14RoPruRSNop-blgSjzzdIyxQ=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMo_7cRpH4lMQ1fe14RoPruRSNop-blgSjzzdIyxQ=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMo_7cRpH4lMQ1fe14RoPruRSNop-blgSjzzdIyxQ=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "b2eQewEBynvSdlFo6pJt5inYp_U",
+            "id": "-9UIewmiCcuzEvO1QtaaI6lZ5j-oU8aNCY1sXO0O6Dc",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:30:53.084748Z",
+                "title": "Jordan Howlett",
+                "description": "I hope everyday is a great day for you.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC9PY_s84IkOV_MJwEL70sfQ"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/YoYTI9pymdtL6zUE5iNOD0yYk6n776SYv6UjkES3kwCrRJdZbuBz5odzUvIa5119kmKf7WYB=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/YoYTI9pymdtL6zUE5iNOD0yYk6n776SYv6UjkES3kwCrRJdZbuBz5odzUvIa5119kmKf7WYB=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/YoYTI9pymdtL6zUE5iNOD0yYk6n776SYv6UjkES3kwCrRJdZbuBz5odzUvIa5119kmKf7WYB=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "u3b3JXztaRwPqoPciGGlIfrZ7uk",
+            "id": "-9UIewmiCcucLtvbjmvK--o4-EjcyPAmHiTxR5NR-ys",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:30:53.639372Z",
+                "title": "Jordan Maron",
+                "description": "Hi there, welcome to my channel for vlogs *and stuff*. Here you'll find videos of me doing things. Mainly cars and gym stuff. Pretty cool, right?",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCn7MpX76Bou10j6IkgAcdjg"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqN5kYry5l_jeY3JmRd8ghGxpr1Xa1PAFLs32LAI-g=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqN5kYry5l_jeY3JmRd8ghGxpr1Xa1PAFLs32LAI-g=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqN5kYry5l_jeY3JmRd8ghGxpr1Xa1PAFLs32LAI-g=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "DmZFhfS5Jw4cXLmKDy9vVx9lwC0",
+            "id": "-9UIewmiCcuzEvO1QtaaI_MuSSNPhbATYz393ViikII",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:30:54.032392Z",
+                "title": "Jordan Reacts",
+                "description": "Reacting to stuff, mostly Reddit.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCo8_GzFxkXAYtwN0QabhJ8A"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPh6O_tigniyj7ekxeRb2Iaar_pKTFftQWenFNl=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPh6O_tigniyj7ekxeRb2Iaar_pKTFftQWenFNl=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPh6O_tigniyj7ekxeRb2Iaar_pKTFftQWenFNl=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "sIj8bejr5psYrpmBWBKEU0zXNPk",
+            "id": "-9UIewmiCcvHHPnhD2mpwvfVUvJxf55_I13AGk8k_js",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:30:54.465802Z",
+                "title": "JRCuber",
+                "description": "I make videos on Rubik's Cubes and other twisty puzzles!",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCKTfkCjQzb0NVB2gP30noVA"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqO0HxABnBCBL6qAaoSDzdUg3jPx_eVez6JEw8l59Q=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqO0HxABnBCBL6qAaoSDzdUg3jPx_eVez6JEw8l59Q=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqO0HxABnBCBL6qAaoSDzdUg3jPx_eVez6JEw8l59Q=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "ipkjJAI08kB_KHLCBoq6rOBGwj4",
+            "id": "-9UIewmiCcucLtvbjmvK-5Y-PuG_mMQtoeGICdDn7kg",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:30:54.897354Z",
+                "title": "JRE Clips",
+                "description": "",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCnxGkOGNMqQEUMvroOWps6Q"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPGRoUlGvR-xHZkhBHrFxPgSrl4uJyL-5kNdCKZtA=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPGRoUlGvR-xHZkhBHrFxPgSrl4uJyL-5kNdCKZtA=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPGRoUlGvR-xHZkhBHrFxPgSrl4uJyL-5kNdCKZtA=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "6vE6QBB_jbABtVrf59q073QUE70",
+            "id": "-9UIewmiCcvHHPnhD2mpws-ekByrbl4M16i11UcoEFI",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:30:55.31866Z",
+                "title": "juicehead",
+                "description": "",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCrXrZo4pACEmIAmA_Tu0I5Q"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMNUhHpmrTRJ5hw20bZQx2WV3FfFHtKb1APsQ=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMNUhHpmrTRJ5hw20bZQx2WV3FfFHtKb1APsQ=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMNUhHpmrTRJ5hw20bZQx2WV3FfFHtKb1APsQ=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "SnFcdYavc7Q_FOv-AV0XPssV0d8",
+            "id": "-9UIewmiCcvHHPnhD2mpwvuEXIf6URAorfHBFpU9UQY",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:30:55.739893Z",
+                "title": "Julia Galef",
+                "description": "Insights from and explanations of philosophy, rationality, science and more. By Julia Galef (http://juliagalef.com).\n\nFor more content, check out my podcast, Rationally Speaking (http://rationallyspeakingpodcast.org).\nEvery two weeks I feature a discussion with someone in science, philosophy, math, etc. -- such as Peter Singer, Lawrence Krauss, Neil deGrasse Tyson, Robin Hanson, and more. Full transcripts available for recent episodes.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCz-RZblnhjXK_krP1jDybeQ"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOc5oE4NswxUw6I86AytZ0NJ5pc1_q6cyH4ocfj=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOc5oE4NswxUw6I86AytZ0NJ5pc1_q6cyH4ocfj=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOc5oE4NswxUw6I86AytZ0NJ5pc1_q6cyH4ocfj=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "6En3GUD_ve7G8LZBC36PB1MmiGc",
+            "id": "-9UIewmiCcvHHPnhD2mpwgCVzKPm79ZOVsRzWSXoVrE",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:30:56.332905Z",
+                "title": "Julian Smith",
+                "description": "I made this for you.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCxUycBeiK8TcU6WBRkTXRlg"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqP5IDeltKGgyMujATv8IdCW-jqMfn9tiK9stQioiw=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqP5IDeltKGgyMujATv8IdCW-jqMfn9tiK9stQioiw=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqP5IDeltKGgyMujATv8IdCW-jqMfn9tiK9stQioiw=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "38wyX8JwBVr3Vd0jGvBu04amfec",
+            "id": "-9UIewmiCcvHHPnhD2mpwhyi_eoMNPrIP3bks-uMzOE",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:30:56.832094Z",
+                "title": "Karl Jobst",
+                "description": "Speedrunning is amazing. The strategies that come out of this niche are nothing short of genius. If you want an easy way to keep up to date with all of the incredible discoveries speedrunners find out about classic games, subscribe to the channel.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC3ltptWa0xfrDweghW94Acg"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPWuAGIsRGV38roin-TfUC6PrZns6EFzQnIxToheQ=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPWuAGIsRGV38roin-TfUC6PrZns6EFzQnIxToheQ=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPWuAGIsRGV38roin-TfUC6PrZns6EFzQnIxToheQ=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "GvGcx88DGw72fI3vhgPBXT8MNRs",
+            "id": "-9UIewmiCcvHHPnhD2mpwl96At_ldZT825TWNhIuG_s",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:30:57.274257Z",
+                "title": "Kentucky Ballistics",
+                "description": "Good clean shooting fun!",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCw_lQ_KhJBX4hAQ6rqbg0Bw"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMq7iNQqQ7XAAHkeSiG12ynEpkYVcvDHUCe_qzLMg=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMq7iNQqQ7XAAHkeSiG12ynEpkYVcvDHUCe_qzLMg=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMq7iNQqQ7XAAHkeSiG12ynEpkYVcvDHUCe_qzLMg=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "f6BqxoOGuRek9bDAJEob12k5jIw",
+            "id": "-9UIewmiCcvHHPnhD2mpwudkN80Mlzl6VBfQWQgwen0",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:30:57.784175Z",
+                "title": "Keralis",
+                "description": "Hey guys! I'm Keralis! \n\nI play a huge variety of games like: Cities Skylines, Planet Coaster, Minecraft, different simulators, City Builders and more!\nSo please do sit back, relax and enjoy!\n\nDo you enjoy the content and want to send a small donation?\nPlease use the following link https://www.paypal.me/Keralis THANK YOU!\n\n- - - - - -\n\nCurrent System Specifications: \n\nCPU: AMD RYZEN 9 3900X\nMOBO: ASUS ROG STRIX X570-F\nRAM: 32GB CORSAIR VENGEANCE RGB CL16 3200MHz\nGFX CARD: NVIDIA RTX 3080\nM2 SSD: SAMSUNG 970 EVO Plus 1TB M.2\nSSD: SAMSUNG SSD 860 EVO 1TB + 6TB \nCPU COOLING: CORSAIR Hydro H150i Pro RGB\nCASE: Lian Li PC-O11 Tempered Glass White\nPSU: Corsair HX850i 80+ Platinum \n\nMicrophone: Shure SM7B\n\nkeralis@keralis.net",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCcJgOennb0II4a_qi9OMkRA"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqO9zDbovL9E0gIF8vzc5LuvuQX86bMGocHYUslhOg=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqO9zDbovL9E0gIF8vzc5LuvuQX86bMGocHYUslhOg=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqO9zDbovL9E0gIF8vzc5LuvuQX86bMGocHYUslhOg=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "COkIStMwbHh_qmKv7lPFwosB2cI",
+            "id": "-9UIewmiCcuzEvO1QtaaI5NKG5r-qUNntrOghjkt1gQ",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:30:58.19297Z",
+                "title": "Kevin Mathias",
+                "description": "",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCK-9xcr2zDPSVqmdzLrHHOA"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMTzz5bfecmBHd1KUCL-WN3kQi_SUodEjJsznE8Zg=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMTzz5bfecmBHd1KUCL-WN3kQi_SUodEjJsznE8Zg=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMTzz5bfecmBHd1KUCL-WN3kQi_SUodEjJsznE8Zg=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "IcaLSIbss6BgMSukBGkQ1oBlfTQ",
+            "id": "-9UIewmiCcvHHPnhD2mpwmlHI68CKvIV97A2JkWcBIk",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:30:58.797178Z",
+                "title": "Kill Tony",
+                "description": "Kill Tony, a live podcast taped in Austin, Texas and all over the world.  Featuring Tony Hinchcliffe & Brian Redban and the band with huge celebrity guests.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCwzCMiicL-hBUzyjWiJaseg"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMYM6AspSjdi75oTu3RTF2ow5ARk8kuHuS8gpCD=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMYM6AspSjdi75oTu3RTF2ow5ARk8kuHuS8gpCD=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMYM6AspSjdi75oTu3RTF2ow5ARk8kuHuS8gpCD=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "EbD8_ZMR27fGZrmU_5BhT0pEy6k",
+            "id": "-9UIewmiCcucLtvbjmvK-93L0_JtefylG8y5U62UcRY",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:30:59.414288Z",
+                "title": "Knowing Better",
+                "description": "Website \u25ba http://knowingbetter.tv\nStore \u25ba http://standard.tv/knowingbetter\nPatreon \u25ba http://patreon.com/knowingbetter\nPaypal \u25ba http://paypal.me/knowingbetter\n\nTwitter \u25ba https://twitter.com/KnowingBetterYT\nTwitch \u25ba https://twitch.tv/knowingbetteryt\nFacebook \u25ba https://facebook.com/KnowingBetterYT/\nInstagram \u25ba https://instagram.com/knowingbetteryt\nReddit \u25ba https://reddit.com/r/KnowingBetter/\n\nProduction Assistant - Rozarah\nhttps://twitter.com/AmandaLlara\n\nResearch Assistant - Jesspsettle\nhttps://twitter.com/JessPSettle\n\nMusic - Michael Cotten\nhttp://www.mwcotten.com\nSpotify \u25ba https://open.spotify.com/album/0zCYP8rPoTWYoldR70bIiI\nAmazon \u25ba https://amzn.to/2zbsfHd\n\nTitle Card and Profile Art - PoetheWonderCat\nhttps://twitter.com/ThatCatNamedPoe\n\n---\n\nGeneral Disclaimer:\nDon't do any of the things in my intro sequence, they are things people generally know better than to do.\nI am not a doctor, lawyer, accountant, or anything else; don't take my advice on anything.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC8XjmAEDVZSCQjI150cb4QA"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMffOBG1g9nF8OykVZc6zxVU-5Toppd4_oPrW4tmw=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMffOBG1g9nF8OykVZc6zxVU-5Toppd4_oPrW4tmw=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMffOBG1g9nF8OykVZc6zxVU-5Toppd4_oPrW4tmw=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "MHxRkIbI4KiVfe0ecD_G3_tF6E0",
+            "id": "-9UIewmiCcvHHPnhD2mpwmTl-ukjfVvo4wrKHGtT19o",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:00.022937Z",
+                "title": "Kurtis Conner",
+                "description": "Subscribe to become a citizen of KurtisTown!",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC7zsxKqd5MicTf4VhS9Y74g"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/nXZ8Vc5TrW3TkYknxeWK_CNPR1qeSxF2_ZrTnz84sPcqO9YZS404n2oQl55tLULxqN0skfiSGA=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/nXZ8Vc5TrW3TkYknxeWK_CNPR1qeSxF2_ZrTnz84sPcqO9YZS404n2oQl55tLULxqN0skfiSGA=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/nXZ8Vc5TrW3TkYknxeWK_CNPR1qeSxF2_ZrTnz84sPcqO9YZS404n2oQl55tLULxqN0skfiSGA=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "dbGtSjqo6vAO8R1-5lHjM6_-HR0",
+            "id": "-9UIewmiCcvHHPnhD2mpwklXxWcXuBoyIl4afwIHcpk",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:00.653907Z",
+                "title": "LAGGIN LIVE",
+                "description": "Hi Everyone, just playing some games and having a good time. Feel free to subscribe if you like what you see!",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCiSgJB168Mssa2gnqOGiBmw"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqM3aiWwY4pePmwWzv95F0xyHaQT6oRICdckeH64=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqM3aiWwY4pePmwWzv95F0xyHaQT6oRICdckeH64=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqM3aiWwY4pePmwWzv95F0xyHaQT6oRICdckeH64=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "H-2H5B8JaPisXsybXWKxZGFBmEo",
+            "id": "-9UIewmiCcvHHPnhD2mpwlyxDvLLa4ZcHMGx7n4qTLo",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:00.899048Z",
+                "title": "Laggin24x",
+                "description": "Hi, I'm JR or Laggin, just playing some games and having fun. Enjoy",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCDc_z-PZ5OSQRYlGXmVENpA"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqN5L0i2okcH5vPGDPhJ4NH5E-d_9cSHnEK2kyQWUg=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqN5L0i2okcH5vPGDPhJ4NH5E-d_9cSHnEK2kyQWUg=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqN5L0i2okcH5vPGDPhJ4NH5E-d_9cSHnEK2kyQWUg=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "cy1nSgGbys2TafAtkgiQKgppTBc",
+            "id": "-9UIewmiCcvHHPnhD2mpwjQT5Q3EfWrCOxfdkK1_AZI",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:01.349621Z",
+                "title": "Latte ASMR",
+                "description": "",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCQe2Y7V-C9bNMAcCJCBvzQQ"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNBboANfJjRkKfy07bAMOooPQvd2X6mWxAWVF-Tsg=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNBboANfJjRkKfy07bAMOooPQvd2X6mWxAWVF-Tsg=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNBboANfJjRkKfy07bAMOooPQvd2X6mWxAWVF-Tsg=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "Pjxm23EDtlIMDYfxzmeWAhDlQgk",
+            "id": "-9UIewmiCcvHHPnhD2mpwiuQgUiu9ck7UgVSzoi7FVI",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:01.656496Z",
+                "title": "Lectures by Walter Lewin. They will make you \u2665 Physics.",
+                "description": "This channel contains the complete 8.01x (Physics I: Classical Mechanics), 8.02x (Physics II: Electricity and Magnetism) and 8.03 (Physics III: Vibrations and Waves) lectures as presented by Walter Lewin in the fall of 1999, spring of 2002 and fall of 2004. The 8.01x and 8.02x edX lectures are high resolution (480p) versions of the more commonly seen OCW versions. Some edits were also made by Lewin. 8.03 is the OCW version, also in a 480p resolution. Links to lecture notes, assignments/solutions and exams/solutions are added. Playlists with Help Sessions for 8.01x, 8.02x and 8.03 are also available. They are \"mini lectures\". The problems discussed in these videos should be apparent after watching the first few minutes. Other playlists show Lewin in various appearances and his Bi-Weekly Physics problems/solutions and several excellent lectures by Feynman and others.\nPublished under a Creative Commons (BY-NC-SA) License. The material is neither affiliated with nor endorsed by MIT.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCiEHVhv0SBMpP75JbzJShqw"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMRdSvFPAJg4gVOPNoNa0W9jRuzbGAvn75SzZU1fw=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMRdSvFPAJg4gVOPNoNa0W9jRuzbGAvn75SzZU1fw=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMRdSvFPAJg4gVOPNoNa0W9jRuzbGAvn75SzZU1fw=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "XfJgV9C-YWsZdd9aizJz0TSU-WU",
+            "id": "-9UIewmiCcvHHPnhD2mpwjGZynWtZ1S0EzYp3rgA8EI",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:02.046248Z",
+                "title": "legomasta99",
+                "description": "Hey guys, I'm legomasta99, or AGuyWhoIsBored, or Duncan! Here you will find content about all sorts of things, from music, to gameplay, to computer science and computer engineering! Pretty much anything that I enjoy or like will be here somewhere! I hope you guys will enjoy the videos! :)",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCm6CQ7_2jmt0q43aW5mDtVA"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNzC1DE7oD5E6vTaa82-9-X9xXtYYZtFrEfRDPl=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNzC1DE7oD5E6vTaa82-9-X9xXtYYZtFrEfRDPl=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNzC1DE7oD5E6vTaa82-9-X9xXtYYZtFrEfRDPl=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "pCvQa-bkQtmEH3Xldg3DH3qBpgU",
+            "id": "-9UIewmiCcvHHPnhD2mpwsruwwQ2XhbPITsv9He2mTY",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:02.455908Z",
+                "title": "LEMMiNO",
+                "description": "Documentaries and list videos narrated by a 20-something Swedish guy.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCRcgy6GzDeccI7dkbbBna3Q"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOBTTAqr1fn4cow4l8ajeOKx4qTlqVD-FFGposQ=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOBTTAqr1fn4cow4l8ajeOKx4qTlqVD-FFGposQ=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOBTTAqr1fn4cow4l8ajeOKx4qTlqVD-FFGposQ=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "A0g-xIeaQ4lO--gfdDILdIfGmeM",
+            "id": "-9UIewmiCcvHHPnhD2mpwrONx3660FH4w6uDvOjiKz4",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:02.86782Z",
+                "title": "Leon Lush",
+                "description": "thanks for being here, now you can't leave sorry\n\nTwitter: https://twitter.com/LeonLush\nInstagram: https://instagram.com/leonlush\nTwitch: https://twitch.tv/leonlush",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCLHsZ4X7YemjxRrvq0AI4LA"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/SZJgTIY_oyetxbHJ9PYI7KlAAGE4DnpSHjkhZHDB1rnpAZH4qG-8adjKR5IpXUfSgALCLOPRRw=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/SZJgTIY_oyetxbHJ9PYI7KlAAGE4DnpSHjkhZHDB1rnpAZH4qG-8adjKR5IpXUfSgALCLOPRRw=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/SZJgTIY_oyetxbHJ9PYI7KlAAGE4DnpSHjkhZHDB1rnpAZH4qG-8adjKR5IpXUfSgALCLOPRRw=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "2Kw9Xobdz1Josc1sN4-KHrtwtSA",
+            "id": "-9UIewmiCcvHHPnhD2mpwk1XKKPvnc7IBeqQT4ZfDyk",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:03.181472Z",
+                "title": "Lesics",
+                "description": "Subscribe and be a part of a concept oriented engineering educational movement! Lesics  was founded by Sabin Mathew, an IIT Delhi post graduate in 2012. At Lesics, we aim to provide quality engineering education. Our videos are designed to clear misconceptions, create a passion for engineering and explain complicated technologies in a simple way. \n\nPlease be one of our members by clicking the JOIN button. This way you can contribute or even mentor Lesics.\n\nFAQs\n1. Can I upload Lesics videos onto any other network ?\nNo, all the videos we upload to YouTube have a copyright associated with them. We remove all illegal uploads (especially from Facebook) by contacting the respective network. However there is no issue in sharing our videos, we encourage the video sharing.\n2. Which is the 3D software we use?\nBlender",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCqZQJ4600a9wIfMPbYc60OQ"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOvG2l_sPRho5ycMPk-RwXjY-BtO1KYOG-xLjm1YQ=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOvG2l_sPRho5ycMPk-RwXjY-BtO1KYOG-xLjm1YQ=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOvG2l_sPRho5ycMPk-RwXjY-BtO1KYOG-xLjm1YQ=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "8xtsO2qgj6QLdCIlyQvJ3ZGPk7k",
+            "id": "-9UIewmiCcucLtvbjmvK--V22amEbmDOpD9b2MvxcPI",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:03.719728Z",
+                "title": "Lessons in Meme Culture",
+                "description": "No filler. Straight to the point.\nLIMC is dedicated to providing you with educational videos exploring the fascinating trends in meme culture.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCaHT88aobpcvRFEuy4v5Clg"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNHqPtv__Rki2cPOcYd_VfwMgnFOgx9FYcxfI5w=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNHqPtv__Rki2cPOcYd_VfwMgnFOgx9FYcxfI5w=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNHqPtv__Rki2cPOcYd_VfwMgnFOgx9FYcxfI5w=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "bq640tLaOY33zVEsqH5Zvr9PYAE",
+            "id": "-9UIewmiCcvHHPnhD2mpwt_lKfTOKAucY2RHtDhqZH0",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:04.295667Z",
+                "title": "LetsPlay",
+                "description": "LetsPlay is the home of the biggest let's plays from Achievement Hunter and their guests!",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCkxctb0jr8vwa4Do6c6su0Q"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPXWFmCTd_7h_UGRtpI-PiTbJjjzSYkjHaT_p6tYg=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPXWFmCTd_7h_UGRtpI-PiTbJjjzSYkjHaT_p6tYg=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPXWFmCTd_7h_UGRtpI-PiTbJjjzSYkjHaT_p6tYg=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "o0jt06Ep-UfbfrkZ6jk6okFf8QU",
+            "id": "-9UIewmiCcvHHPnhD2mpwtxUGDYP1zXD-maCYe5NtT8",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:04.623857Z",
+                "title": "Lex Fridman",
+                "description": "Lex Fridman Podcast and other videos.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCSHZKyawb77ixDdsGog4iWA"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMu8cJ8ZV64SbBS-Qa3cmkQGub-H7pEdK0lh7DPqUA=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMu8cJ8ZV64SbBS-Qa3cmkQGub-H7pEdK0lh7DPqUA=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMu8cJ8ZV64SbBS-Qa3cmkQGub-H7pEdK0lh7DPqUA=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "9Ngt4RAOaYOUnGggSqcLfPb9uBI",
+            "id": "-9UIewmiCcvHHPnhD2mpwhP_p6tP0raGHGphf8LRt58",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:04.924886Z",
+                "title": "Liam Winter",
+                "description": "REAL GOOD VIDEOS",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC_wFnJ2p5qa8aiPEJZYfBPA"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPUKreVFxbY_-v7PO7dcB9pKDi-3EtX2GGUiPX5kg=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPUKreVFxbY_-v7PO7dcB9pKDi-3EtX2GGUiPX5kg=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPUKreVFxbY_-v7PO7dcB9pKDi-3EtX2GGUiPX5kg=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "3oa8g7HP7_mZPlA6TrO3QEVlwZI",
+            "id": "-9UIewmiCcvHHPnhD2mpwsvSc9gBsOXc7QkbukElYS4",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:05.239859Z",
+                "title": "Light Grunty",
+                "description": "Welcome to Riichi Mahjong Guide. Here, I have posted a series of videos that are meant to help new players learn Japanese or Riichi Mahjong. In this series, I cover several topics including the basics of mahjong, the different types of hands or yaku you can make, how to score a hand, and some basic strategies for beginners.\n\nI would appreciate any feedback, so please feel free to leave comments or questions.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC2E_GfC7EwgBrYtbDzonZew"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqO3y-fzkQodTHaDduY0FbJRGso4vSye_urRYkzu3Q=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqO3y-fzkQodTHaDduY0FbJRGso4vSye_urRYkzu3Q=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqO3y-fzkQodTHaDduY0FbJRGso4vSye_urRYkzu3Q=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "OrBVnj6KMpZmBQDJOii6ihC2k3k",
+            "id": "-9UIewmiCcvHHPnhD2mpwsg9QmU6XJw0yWeCLMTQxmM",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:05.536884Z",
+                "title": "Limcube",
+                "description": "Business: luca.jakobi@googlemail.com",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCe0S_y0aRXqY-l_C41ezlCA"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/r89KZWVbeVSMY0qFm8glVrWVZP4ieTNGifI5Pbq3ujqhGRqdj0FaSnOXG1SEn4ssDLB3vDR8vA=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/r89KZWVbeVSMY0qFm8glVrWVZP4ieTNGifI5Pbq3ujqhGRqdj0FaSnOXG1SEn4ssDLB3vDR8vA=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/r89KZWVbeVSMY0qFm8glVrWVZP4ieTNGifI5Pbq3ujqhGRqdj0FaSnOXG1SEn4ssDLB3vDR8vA=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "Y7dTvESLolvUwcd_nefxk6R9aeA",
+            "id": "-9UIewmiCcvHHPnhD2mpwhBx7uPq98mj1BSLCSo5AQ8",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:05.750236Z",
+                "title": "Limmy",
+                "description": "Watch me LIVE every day at http://www.twitch.tv/Limmy",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCZ8Ql34vQn91fzq0xvG9Pqg"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/T0YwrF2l-TiIE7BqDEI_MM823MpkWa89V0t3LzDWvyuPSUHxs28Bj8RRZTTeyxoz_HcTZk1g5g=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/T0YwrF2l-TiIE7BqDEI_MM823MpkWa89V0t3LzDWvyuPSUHxs28Bj8RRZTTeyxoz_HcTZk1g5g=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/T0YwrF2l-TiIE7BqDEI_MM823MpkWa89V0t3LzDWvyuPSUHxs28Bj8RRZTTeyxoz_HcTZk1g5g=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "MFAp8AO-jAsnGhRN64sAg4Wg-9E",
+            "id": "-9UIewmiCcvHHPnhD2mpwpUGVW5m6bT0O22_KfdGtLI",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:06.35923Z",
+                "title": "Linus Tech Tips",
+                "description": "Linus Tech Tips is a passionate team of \"professionally curious\" experts in consumer technology and video production who aim to educate and entertain.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/Vy6KL7EM_apxPSxF0pPy5w_c87YDTOlBQo3MADDF0Wl51kwxmt9wmRotnt2xQXwlrcyO0Xe56w=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/Vy6KL7EM_apxPSxF0pPy5w_c87YDTOlBQo3MADDF0Wl51kwxmt9wmRotnt2xQXwlrcyO0Xe56w=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/Vy6KL7EM_apxPSxF0pPy5w_c87YDTOlBQo3MADDF0Wl51kwxmt9wmRotnt2xQXwlrcyO0Xe56w=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "F7do8_edITAGpTsS70ZgKxEBbwA",
+            "id": "-9UIewmiCcs_02p8CEaP-3oF0fsXQCxmoHz2FjmXo10",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:06.775788Z",
+                "title": "Lionfield",
+                "description": "We are Matteo and Emiliano. Pasta protectors during the day \ud83c\udf5d\ud83c\uddee\ud83c\uddf9 Musicians at night \ud83c\udfb5\n\ud83c\uddee\ud83c\uddf9MADE IN ITALY \ud83c\uddee\ud83c\uddf9",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCHwpDpLoyJgtFXoAaaSut4Q"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNsUK0Ll0bXntg7kLNbumcwmEbj1icwyWJ46sk9=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNsUK0Ll0bXntg7kLNbumcwmEbj1icwyWJ46sk9=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNsUK0Ll0bXntg7kLNbumcwmEbj1icwyWJ46sk9=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "_QMAAommJK5mjwUIXxcrBXneIyo",
+            "id": "-9UIewmiCcvHHPnhD2mpwt4Cg6LNIeic8MzaZRp17yk",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:07.188127Z",
+                "title": "Louis Rossmann",
+                "description": "I discuss random things of interest to me. This is, and always will be, my personal variety show. \n\nI teach Macbook component level logic board repair from a common sense, everyman's perspective. I try to make it seem viable, and entertaining. I also go over business concepts & philosophy that will be important to running & maintaining a sustainable, profitable business. \n\nYou can read more about our company here & inquire about service. https://www.rossmanngroup.com\n\nWe have a paid forum to provide support to component level technicians https://boards.rossmanngroup.com\n\nIf you want a Macbook repair, check us out at https://sendyourmacbook.com",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCl2mFZoRqjw_ELax4Yisf6w"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/R3gmOcHjkiO6FMCSoAMSrUkIliuT42oGUiWTgIeauigfTyqPLAv4UxwsXIqFN3s2b3uJ846y-Q=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/R3gmOcHjkiO6FMCSoAMSrUkIliuT42oGUiWTgIeauigfTyqPLAv4UxwsXIqFN3s2b3uJ846y-Q=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/R3gmOcHjkiO6FMCSoAMSrUkIliuT42oGUiWTgIeauigfTyqPLAv4UxwsXIqFN3s2b3uJ846y-Q=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "Tb6y_FDb6IkQDUpVyksL6y17QvY",
+            "id": "-9UIewmiCcvHHPnhD2mpwr__aSykJo7wezE-M0Qf5Bs",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:07.500392Z",
+                "title": "Louis Weisz",
+                "description": "We turn STEM into an extreme sport.\n\nMain Discord: https://discord.com/invite/67MY2A6kdm \nWeisz Task Force (WTF) Application: https://forms.gle/DrMyNRP2kawcxG788 \n\nShoot me a message at the contact email below if you'd like to work together! \n(FYI - annoyingly it only shows up on desktop or in browser, so if you're on a phone you can't see it -- best workaround is to try loading the desktop site in your mobile web browser)",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCOMrUmOTPD_AnSivjxptxpA"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMVDVbSzZ0vL5GzExL5z5p4BIcEtJx7vcivwSEaYw=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMVDVbSzZ0vL5GzExL5z5p4BIcEtJx7vcivwSEaYw=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMVDVbSzZ0vL5GzExL5z5p4BIcEtJx7vcivwSEaYw=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "9Bge9MCXCIuobCB09JlyT7VVJoo",
+            "id": "-9UIewmiCcvHHPnhD2mpwnZlpqUr9N1IRvycMVRsneQ",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:07.803426Z",
+                "title": "Luke Smith",
+                "description": "Everything you're looking for is here: https://lukesmith.xyz",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC2eYFnH61tmytImy1mTYvhA"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/WEh3wNCWfxK7vgqVwTRLck3_76wm-pzsVO84gSeHUelk70-6njLXpP3jHTcEqHSjCrkSTtdL_w=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/WEh3wNCWfxK7vgqVwTRLck3_76wm-pzsVO84gSeHUelk70-6njLXpP3jHTcEqHSjCrkSTtdL_w=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/WEh3wNCWfxK7vgqVwTRLck3_76wm-pzsVO84gSeHUelk70-6njLXpP3jHTcEqHSjCrkSTtdL_w=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "WKdcRyv-UpMCZAKF3GmEP5Ss3dA",
+            "id": "-9UIewmiCcucLtvbjmvK-0PHf9KrUhGg1dzprMpRrQU",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:08.401608Z",
+                "title": "Lumi",
+                "description": "",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCim9vqeEtz5eRgUHiJ9Vf8w"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqN-13SC5u5eqH5aAPSIpio2IqMuuZHKMjMzLu9Nxw=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqN-13SC5u5eqH5aAPSIpio2IqMuuZHKMjMzLu9Nxw=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqN-13SC5u5eqH5aAPSIpio2IqMuuZHKMjMzLu9Nxw=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "cyBTYpxvx1KAZixNNWHAjHnBfNc",
+            "id": "-9UIewmiCcvHHPnhD2mpwkqE69f0dXqwCYcATfuWkV0",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:08.603539Z",
+                "title": "ManManBoyBoyMan",
+                "description": "The manliest manboyman of them all.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCOIdrWi76lzuNg4lKRWYnhQ"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOXT5-MCgOt0fr-MDuA0gDAu9k-cwsIsTMU5Zt1=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOXT5-MCgOt0fr-MDuA0gDAu9k-cwsIsTMU5Zt1=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOXT5-MCgOt0fr-MDuA0gDAu9k-cwsIsTMU5Zt1=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "zVl5G5ZIdZlo1mH_GtMRR6PqhVk",
+            "id": "-9UIewmiCcvHHPnhD2mpwsDoiaLScyf_Ef6i8b9uVT8",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:08.945969Z",
+                "title": "Marc Rebillet",
+                "description": "I hope you enjoy my little channel.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCXgxNzAgZ1GExhTW4X1mUrg"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/PIWl0EQmRZjGB1iaIESY0ExZuy3qEZF5wRF6C_uRQEbPod8Zt-lSfAZN-5Z5q6U1ojcnvBX553Q=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/PIWl0EQmRZjGB1iaIESY0ExZuy3qEZF5wRF6C_uRQEbPod8Zt-lSfAZN-5Z5q6U1ojcnvBX553Q=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/PIWl0EQmRZjGB1iaIESY0ExZuy3qEZF5wRF6C_uRQEbPod8Zt-lSfAZN-5Z5q6U1ojcnvBX553Q=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "9GhLPBBz_yoYqVN4TFH0f_f9FXM",
+            "id": "-9UIewmiCcvHHPnhD2mpws9VoUEpANFxsdPY0kWdRAw",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:09.429438Z",
+                "title": "Marcus House",
+                "description": "Hey hey! My name is Marcus House and I like space stuff. I hope to make you like space stuff too assuming you don't already.\n\nEight years before I was born, Apollo 17 returned from the moon (1972). I sadly missed the most exciting adventure humans have ever experienced. Since I was young I've dreamed of being able to witness the next big milestone. We've seen no further manned missions outside Low Earth Orbit in my years, but this is about to change with SpaceX and Blue Origin pushing humanity back into the new space race alongside NASA. Other wonderful new companies such as Rocketlab are increasing the excitement with smaller payloads as well. This is an amazing time to be alive and I want to share all I can with you. Historically I'm a huge fan of Kerbal Space Program (KSP) which is where my Youtube channel started. KSP2 is around the corner, so we may well get back into that at some point soon as well.\n\nFollow me on Twitter - https://twitter.com/MarcusHouse",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCBNHHEoiSF8pcLgqLKVugOw"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPNN8bFyKLlooQjdtb0Hlz7u74UcrilQVqDtMSUDg=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPNN8bFyKLlooQjdtb0Hlz7u74UcrilQVqDtMSUDg=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPNN8bFyKLlooQjdtb0Hlz7u74UcrilQVqDtMSUDg=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "PzhbLns04mkXsOlTnOTJwIOjzlE",
+            "id": "-9UIewmiCcvHHPnhD2mpwlQPqeg9v7bjOAd1hrWkM5M",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:09.756328Z",
+                "title": "Mario L\u00f3pez",
+                "description": "",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCRvd2C8mV4r7PRvik6OHIJw"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPnl7bKpLk9dXI5dkEQJw_BP0HcVCnKbCwGQjzJSA=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPnl7bKpLk9dXI5dkEQJw_BP0HcVCnKbCwGQjzJSA=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPnl7bKpLk9dXI5dkEQJw_BP0HcVCnKbCwGQjzJSA=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "kcnajqinaAn4oQcOn9AP840RWPE",
+            "id": "-9UIewmiCcvHHPnhD2mpwvJex1_r4Wt0xaX7wnSqMno",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:10.030658Z",
+                "title": "mark normand",
+                "description": "Mark Normand is a fun-loving, New York comedian. Lotta comedy content if you want some yuks. \u201cOut To Lunch\u201d premiers May 12, 2020! Praise Allah!!",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCGmMFJB36GBXTgaLtfGd6Jg"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNDFnzfkmvKXXdvqjANjMbwpfBW2kG1qVoYhd-X5A=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNDFnzfkmvKXXdvqjANjMbwpfBW2kG1qVoYhd-X5A=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNDFnzfkmvKXXdvqjANjMbwpfBW2kG1qVoYhd-X5A=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "3pf7B9ETzRvkb4g0kTpt3HgyVjg",
+            "id": "-9UIewmiCcvHHPnhD2mpwn96GK07qtUWnHIhovt89pM",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:10.457052Z",
+                "title": "Mark Rober",
+                "description": "Former NASA engineer. Current CrunchLabs founder and friend of science.\n\nAnswers to some common questions:\n\n1) I studied Mechanical Engineering in School.  I did my undergrad at BYU and Masters at USC.\n2) I worked for NASA JPL for 9 years, 7 of which were working on the Curiosity Rover (I made a video about it you should def totes watch cause it's probably my favorite of all my videos).  Then I made some Halloween costumes.  Then I worked for Apple in their Special Projects Group doing Product Design as a Mechanical Engineer for 5 years. Then in 2022 I created CrunchLabs to deliver monthly toys that teach you to think like an engineer.\n3) Link to free and therefore substandard build plans for my custom workbench can be found below.\n4) I make a monthly toy we build together on a video, that gets delivered to your house that teaches you to think like an engineer.  Check it out at- https://crunchlabs.com/MarkRober",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCY1kMZp36IQSyNx_9h4mpCg"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNhY5TbXzPihNDZdG550M-PJTXq2x6Af8Bu-Ive=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNhY5TbXzPihNDZdG550M-PJTXq2x6Af8Bu-Ive=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNhY5TbXzPihNDZdG550M-PJTXq2x6Af8Bu-Ive=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        }
+    ]
+}

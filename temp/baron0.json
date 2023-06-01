@@ -1,0 +1,1311 @@
+{
+    "kind": "youtube#SubscriptionListResponse",
+    "etag": "_G2zubYjO-SSk2ozwVFNqd7Jg3Q",
+    "nextPageToken": "CDIQAA",
+    "pageInfo": {
+        "totalResults": 596,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#subscription",
+            "etag": "8jLtbxiTdahkE-4kPtmUaVbhOvw",
+            "id": "wJWJnEN0nf2Jehuzm6vpMn9rNdvw9iVg1YRlJeX5uRY",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:38.194743Z",
+                "title": "2 Danny 2 Furious",
+                "description": "The sequel you didn't need and also didn't deserve",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCoo-9GEm2mpyYIXSptrKIpA"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPUqiieHVql-xF3wxwTeTvfl5prkBQmgCR7tSeEZw=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPUqiieHVql-xF3wxwTeTvfl5prkBQmgCR7tSeEZw=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPUqiieHVql-xF3wxwTeTvfl5prkBQmgCR7tSeEZw=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "zdyK4y4OFh80Cokjis8nrR6UKwE",
+            "id": "wJWJnEN0nf07382QFQHDF3DPTnDHDUPGaXV4g0ek98U",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:38.537853Z",
+                "title": "2veritasium",
+                "description": "Veritasium's second channel. The purpose of this channel is to allow us to communicate about science and engineering, post behind-the-scenes footage, edit less meticulously, try things that are a little less flashy but just as enlightening.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC2LZO6swZ9SLUEOks3WnsfA"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqO21FHT8AXcvlQDx5xnczXJuZW0OREi_01505st=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqO21FHT8AXcvlQDx5xnczXJuZW0OREi_01505st=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqO21FHT8AXcvlQDx5xnczXJuZW0OREi_01505st=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "Z7kDqVBiUC-juMqzD7s7MgIAzMo",
+            "id": "wJWJnEN0nf07382QFQHDF0q_U8x6FJ4YsaOyzEXKVzA",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:38.883393Z",
+                "title": "5secondfilms",
+                "description": "www.5secondfilms.com\n\nWasting your time, but not very much.\n\nWe make 5 second films.\n\nThe rules are simple: 2 seconds of beginning titles, 5 seconds of film, 1 second of end titles.\n\nIf you take umbrage with these 5sfs running at an actual length of 8 seconds, we can only assume you're no fun at dinner parties.\n\nWe are Brian Firenzi, Ben Gigli, Kelsey Gunn, Daniel Hollister, Michael E. Peter, Michael Rousselet, Erik Sandoval, Olivia Taylor Dudley, Jon Worley, Jon Salmon, Timothy Ciancio,  Paul Prado, Tomm Jacobsen, Alec Owen, Mike James, Joey Scoma, and Maria Del Carmen",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMfBZbjVh7t9O6ENdtefI4cf_YO8_Ou1Mz070Ci=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMfBZbjVh7t9O6ENdtefI4cf_YO8_Ou1Mz070Ci=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMfBZbjVh7t9O6ENdtefI4cf_YO8_Ou1Mz070Ci=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "VWP8wTX6UkumQaT781kN54QOjBg",
+            "id": "wJWJnEN0nf07382QFQHDF3m1jg7RMdUZxqRK9boL98U",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:39.101819Z",
+                "title": "52Kards",
+                "description": "52Kards was founded in 2011 as a comprehensive free online learning resource for aspiring magicians. Learning magic is such a rewarding journey and it can help you amaze, entertain, and connect with others. Unfortunately, many learning resources can be expensive and out of reach for many potential students. I originally started teaching magic because I saw how many people were attempting to learn magic from the free sub-par tutorials that were already available on YouTube, and I wanted to provide higher quality teaching for these under-served students. Since then, 52Kards has taught sleight of hand technique and magic to thousands of students and our YouTube channel has become the premium educational platform for the next generation of magicians. We are also a leading supplier of premium playing cards and other gimmicks, accessories, etc.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCIuScmttXWzLoXqs8kU3vWA"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMep6dIJg7mQ0XZ4kDJ42IOkXall2cf74YyTZ9REA=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMep6dIJg7mQ0XZ4kDJ42IOkXall2cf74YyTZ9REA=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMep6dIJg7mQ0XZ4kDJ42IOkXall2cf74YyTZ9REA=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "se7s40NlkLvPT3nz6UoGpwj1pwY",
+            "id": "wJWJnEN0nf07382QFQHDF3BsG6Sm2caeiQqxKhkhCyg",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:39.323191Z",
+                "title": "132mt",
+                "description": "Card stuff",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCzP3oYu9wtK8aw1qPqPaTOQ"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNVYvz9bVE61EjOBZEzP4GEPn2GedMXVXemDEe5=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNVYvz9bVE61EjOBZEzP4GEPn2GedMXVXemDEe5=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNVYvz9bVE61EjOBZEzP4GEPn2GedMXVXemDEe5=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "YtH7g30_FVpvZ-yZMLRXK_K0-UY",
+            "id": "wJWJnEN0nf07382QFQHDFzVeOaRgH-wCOhzxTfdWflE",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:39.545015Z",
+                "title": "A Kind Ale War",
+                "description": "",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCkQW6Qzjrg0jGnBkMER-vbA"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/EHFbkjQ7VwDBzr3GP683zR4Vw5KHnlU6R3A7bQ5h5pbs2R4YR0Y-vDZwHpPbsPyrF8ih60ReLQ=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/EHFbkjQ7VwDBzr3GP683zR4Vw5KHnlU6R3A7bQ5h5pbs2R4YR0Y-vDZwHpPbsPyrF8ih60ReLQ=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/EHFbkjQ7VwDBzr3GP683zR4Vw5KHnlU6R3A7bQ5h5pbs2R4YR0Y-vDZwHpPbsPyrF8ih60ReLQ=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "1uRNyAX-fvN9WL1li4JLFyLpJ-g",
+            "id": "wJWJnEN0nf07382QFQHDF0yUgdIZfZgjjjgHJ-IGPTg",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:39.82869Z",
+                "title": "A Kind Ale War LIVE",
+                "description": "Real Channel: https://www.youtube.com/channel/UCkQW6Qzjrg0jGnBkMER-vbA",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC5ZZ3U0ej2E4jEdFcITuI_Q"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/iqgJyconBNQZipCejAeJ9GFbm1NA7PYSY574gubKi1Oz2kNVUnRPB3vs90eSxEBHx9vtqmCWsg=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/iqgJyconBNQZipCejAeJ9GFbm1NA7PYSY574gubKi1Oz2kNVUnRPB3vs90eSxEBHx9vtqmCWsg=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/iqgJyconBNQZipCejAeJ9GFbm1NA7PYSY574gubKi1Oz2kNVUnRPB3vs90eSxEBHx9vtqmCWsg=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "FUDnGSipj3yPzQcYgMrvFFgaqng",
+            "id": "wJWJnEN0nf07382QFQHDFyaICBIYlGAoFZBBBXDwXcI",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:40.112113Z",
+                "title": "Abhishek Kulkarni",
+                "description": "Abhishek is a flight software engineer at Phoenix Launch Systems where he works on the company's cube satellite mission. He is in his final year of studies at Make School in San Francisco, California. \nHe is born and raised in India and loves chai, cricket, music, movies, history, business, and teaching science and computer programming.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCdnT0EBAax_RJ_taqXtqToA"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOGNMo0ik1DNQlZbD6IVcJ4dUn5N0hpfo5KCtASwA=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOGNMo0ik1DNQlZbD6IVcJ4dUn5N0hpfo5KCtASwA=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOGNMo0ik1DNQlZbD6IVcJ4dUn5N0hpfo5KCtASwA=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "T9p8r5Xs3I7A32DXY6EsPrwf8xs",
+            "id": "wJWJnEN0nf07382QFQHDF0RfoU5vuDXEe3_vgB8rWXU",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:40.421447Z",
+                "title": "Abom79",
+                "description": "Hello, my name is Adam. Welcome to my home machine shop.  I like to take videos of my work and share them with others here. You may find some clips from some of the work I do at my other job as well mixed in. We are a family owned business that was started in 1972, and today I carry on the tradition as a third generation machinist. I try to be helpful and informative with my jobs, setups  and work descriptions in hopes that others my learn the machining trade as well. I use a combination of GoPro cameras and my iPhone camera to make clear, informative, educational and enjoyable videos to watch. Please feel free to post comments and questions about my work. I hope you guys enjoy!\n\nAdam",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCw3UZn1tcVe7pH3R6C3Gcng"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNdW8kQ6gKH-ArRsVzCiEiZx8LcBn3HAilxX-B660E=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNdW8kQ6gKH-ArRsVzCiEiZx8LcBn3HAilxX-B660E=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNdW8kQ6gKH-ArRsVzCiEiZx8LcBn3HAilxX-B660E=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "42do13PvokCVmNMe1ajqT3gnkpg",
+            "id": "wJWJnEN0nf07382QFQHDF8WVIAzU31UzWNgemT9w2PE",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:40.725681Z",
+                "title": "Achievement Hunter",
+                "description": "Welcome to the live action comedy channel for your favorite group, Achievement Hunter. Join us for daily content ranging from behind the scenes looks to internet challenges and other shenanigans! We focus primarily on comedy and live action content, but also like to use our workplace as a test range for sweet stunts.\n\nWant to be a part of our Fanmail Unboxings?\nRooster Teeth\nC/O Achievement Hunter\n1901 E 51st Street\nAustin, TX 78723",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsB0LwkHPWyjfZ-JwvtwEXw"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/FvZ4FrOHILUD0zUbjG_Vl3kCHq8W5Vh2KtRHyIU9349BypI1L6Qj99h05oQLldZUxeYRWk5dnYE=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/FvZ4FrOHILUD0zUbjG_Vl3kCHq8W5Vh2KtRHyIU9349BypI1L6Qj99h05oQLldZUxeYRWk5dnYE=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/FvZ4FrOHILUD0zUbjG_Vl3kCHq8W5Vh2KtRHyIU9349BypI1L6Qj99h05oQLldZUxeYRWk5dnYE=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "W-tQUQyqKpDNciDaM1eb0k21_LM",
+            "id": "wJWJnEN0nf07382QFQHDF8_-f3reJAT7mehHygDchcw",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:41.023015Z",
+                "title": "Active Self Protection",
+                "description": "Every single day we post a real defensive encounter caught on camera and perform an after-action report on it for lessons learned. We educate the public on what we see that works and what we see that doesn't in real robberies, muggings, carjackings, and other defensive situations. Our approach is evidence-based, meaning we try hard not to have a pre-set dogma but to go where the actual evidence leads towards more positive outcomes for good people.\n\nActive Self Protection trains people in armed and unarmed self-defense. Our motto: cover your ASP! (that means your Attitude, Skills, and Plan)",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCsE_m2z1NrvF2ImeNWh84mw"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOkfaN5WNLgvmil4TR7SqBNdQ2H-j_t94CFWw3o9RY=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOkfaN5WNLgvmil4TR7SqBNdQ2H-j_t94CFWw3o9RY=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOkfaN5WNLgvmil4TR7SqBNdQ2H-j_t94CFWw3o9RY=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "nx4lneexY2VDFNf1b_40IjQlvs8",
+            "id": "wJWJnEN0nf07382QFQHDF5tzYuiFVKQ32MCQVgMfQHM",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:41.352689Z",
+                "title": "Adam Oppenheimer",
+                "description": "",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCuvFoB_75jC2WqfSoFL7DQQ"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNUNE6T2hqEToGy-uJln8EKxqR7nbzxN4NTVA=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNUNE6T2hqEToGy-uJln8EKxqR7nbzxN4NTVA=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNUNE6T2hqEToGy-uJln8EKxqR7nbzxN4NTVA=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "g_4WdrkLytaaDHeHAFOQ-22UqhA",
+            "id": "wJWJnEN0nf07382QFQHDF72DLj4k6I4vMTiUITD9iqw",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:41.591111Z",
+                "title": "Adam Savage\u2019s Tested",
+                "description": "Adam Savage\u2019s Tested is a content platform and community playground for makers and curious minds. On Tested.com, the highly- engaged Tested YouTube channel, and at conventions and events, dynamic makers share ideas and inspire each other to build their obsessions. Led by Adam Savage, the Tested team explores the intersection of science, popular culture, and emerging technology, showing how we are all makers. Adam also takes viewers behind the scenes of films, TV shows, theater, and museums, shining a spotlight on the craftspeople and artists who make the magic we all enjoy.\n\nTested is also: Norman Chan, Joey Fameli, Josh Self, Ryan Kiser, Kristen Lomasney, Kishore Hari, Sean Charlesworth, Kayte Sabicer, Bill Doran, Ariel Waldman, and Darrell Maloney.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCiDJtJKMICpb9B1qf7qjEOA"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMQhFLcYDCpq8YrhiLNS1W5pO8tS_lTEMncqUdd2w=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMQhFLcYDCpq8YrhiLNS1W5pO8tS_lTEMncqUdd2w=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMQhFLcYDCpq8YrhiLNS1W5pO8tS_lTEMncqUdd2w=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "931bLIGodv6MIuetFVYtApbxrTk",
+            "id": "wJWJnEN0nf07382QFQHDF3iF7Lc9ApJVOeW-531eX1c",
+            "snippet": {
+                "publishedAt": "2023-04-13T01:20:46.339724Z",
+                "title": "Ahren Belisle Comedy",
+                "description": "Ahren; disabled comedian/engineer/mentalhealth advocate \nWill post shows on IG/FB\n\nhttps://linktr.ee/ahren_belisle",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCZeedM8IVH_HjjflbU3-Yxg"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/opDsTMMu0AT6if02xwH0SwYLBiwNNwSVbGe6lI7FQ8VpaDY68Q0FfFFZ1Vd6vGKI2WkLzyl2Ljg=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/opDsTMMu0AT6if02xwH0SwYLBiwNNwSVbGe6lI7FQ8VpaDY68Q0FfFFZ1Vd6vGKI2WkLzyl2Ljg=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/opDsTMMu0AT6if02xwH0SwYLBiwNNwSVbGe6lI7FQ8VpaDY68Q0FfFFZ1Vd6vGKI2WkLzyl2Ljg=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "fUsJCtH065QOteRVE3hLJ8MPkRc",
+            "id": "wJWJnEN0nf1UxESKgIkg0W7xUGnuhCCrBQZmFzefNU8",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:41.827454Z",
+                "title": "Akakabuto Nanuk Ch.",
+                "description": "A fierce polar bear from the arctic, I was captured by scientists and was taken to America where they tried to genetically alter my DNA to become a living weapon. I escaped my captivity halfway through their experiments and decided to live life in my own way by becoming a YouTube personality.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCYwKGkvzF4XsSxoaBfdGVvw"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqP5yYhpmII1uw6jJHGVEpAij-6ZMSmqGTA3BlJQ=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqP5yYhpmII1uw6jJHGVEpAij-6ZMSmqGTA3BlJQ=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqP5yYhpmII1uw6jJHGVEpAij-6ZMSmqGTA3BlJQ=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "OBfibOtNMcebImBhgiFemIGCh-Q",
+            "id": "wJWJnEN0nf07382QFQHDFyun81umtq1W55Dbs20lSRk",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:42.129937Z",
+                "title": "Alec Steele",
+                "description": "My name's Alec Steele and here you'll find near-daily videos documenting the process of building some awesome projects here in the shop. As a blacksmith, most of the projects start as lumps of steel, or stacks of different alloys for making damascus, that I forge out into blades, sculpture, art or tools before taking the project to the machining equipment or into the grinding room for finishing. Each project teaches me a lot and stretches the bounds of my knowledge. I make a lot of mistakes but they serve as an excellent teacher. There's always something important for me to learn in the shop! \n\nI want my work to be the spark that ignites the desire for you to get into your shop (or kitchen/basement/garage) and make something too! Whether it's stitching a leather wallet or forging a giant sword, you'll love the creative process.\n\nBe sure to follow me on instagram @alecsteele for behind the scenes and grab some awesome products at https://alecsteeleshop.com/\n\nThanks! \nAlec",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCWizIdwZdmr43zfxlCktmNw"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNNp60aBaHTK02evlT1W5hh-NYOMfPbB7HHj8bTzg=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNNp60aBaHTK02evlT1W5hh-NYOMfPbB7HHj8bTzg=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNNp60aBaHTK02evlT1W5hh-NYOMfPbB7HHj8bTzg=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "3JQjJcT3zKNKWYWChTLgRDszWMY",
+            "id": "wJWJnEN0nf1UxESKgIkg0SRCTX8jj-Yq42KlrKP2S4A",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:42.421948Z",
+                "title": "AlfaOxtrot",
+                "description": "",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC0O77HWzCiGhJRNAVc7wvfQ"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/eBJhOLgS5t4N21zNTRg81QPztmvBD_T1ECEGRPZSYKSGsW33JHoFqBhRtosi_Sz9yCbIpJ0KRw=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/eBJhOLgS5t4N21zNTRg81QPztmvBD_T1ECEGRPZSYKSGsW33JHoFqBhRtosi_Sz9yCbIpJ0KRw=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/eBJhOLgS5t4N21zNTRg81QPztmvBD_T1ECEGRPZSYKSGsW33JHoFqBhRtosi_Sz9yCbIpJ0KRw=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "y-lZP7RJOqiKOv_CpBQMihMj3PI",
+            "id": "wJWJnEN0nf07382QFQHDF9XQxbZxPt89Iw5wjNzSgdg",
+            "snippet": {
+                "publishedAt": "2023-03-31T08:10:39.104Z",
+                "title": "Ali Diamond",
+                "description": "",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC7393LnQBjLrrRRG2eDIj9Q"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqM-hwqNT22uj9gypovz2Gnax75jp520vqcf0Nec=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqM-hwqNT22uj9gypovz2Gnax75jp520vqcf0Nec=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqM-hwqNT22uj9gypovz2Gnax75jp520vqcf0Nec=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "-F_p9QTTUdcLnKXywAdXsgfCVy4",
+            "id": "wJWJnEN0nf07382QFQHDF1BmVkGRt09EogGKgolvHX4",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:42.62816Z",
+                "title": "Allen Pan",
+                "description": "Failed Mythbuster. I fix stuff.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCVS89U86PwqzNkK2qYNbk5A"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/uSVxkVvssmV0LN96Dg_J1LVH5AfJ_Xu7P8wgDLijf-FDHNGbwRYh1TWZUy0H9_c1yWNNAdBw=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/uSVxkVvssmV0LN96Dg_J1LVH5AfJ_Xu7P8wgDLijf-FDHNGbwRYh1TWZUy0H9_c1yWNNAdBw=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/uSVxkVvssmV0LN96Dg_J1LVH5AfJ_Xu7P8wgDLijf-FDHNGbwRYh1TWZUy0H9_c1yWNNAdBw=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "q0z3ofGa6ywoLsJvZ0ZBZALLpe8",
+            "id": "wJWJnEN0nf07382QFQHDF4GCzQYzqoKhy-yUzivK-Vg",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:42.922426Z",
+                "title": "althand",
+                "description": "",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCuHOQI2sI-gNFRftRVcmdPg"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOPUtew-01c7c03Z8x0d58rk-hPmsO6-JJMkQ=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOPUtew-01c7c03Z8x0d58rk-hPmsO6-JJMkQ=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOPUtew-01c7c03Z8x0d58rk-hPmsO6-JJMkQ=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "lY-LyUrRYE9YN6oHQGyGE5DWnKI",
+            "id": "wJWJnEN0nf2Jehuzm6vpMiOMnkC2opHMqFKYq-obI3Q",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:43.251734Z",
+                "title": "ambiguousamphibian",
+                "description": "Just a normal amphibian. Nothing to see here - move along.\n\n\n\nChannel Emoji by the amazingly artistic DistantCacophony:\nTwitter: https://twitter.com/DistntCacophony\nYT: https://www.youtube.com/@distantcacophony",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCSDiMahT5qDCjoWtzruztkw"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/Jg8S9oQLLwacU-sGxHBZt8crg1HJAlbkT7RDK4BsIVtEKv9H-s9y7q3jinky3uOR1_fvtOL4=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/Jg8S9oQLLwacU-sGxHBZt8crg1HJAlbkT7RDK4BsIVtEKv9H-s9y7q3jinky3uOR1_fvtOL4=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/Jg8S9oQLLwacU-sGxHBZt8crg1HJAlbkT7RDK4BsIVtEKv9H-s9y7q3jinky3uOR1_fvtOL4=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "3PLRpHPB5SgWdwoItAVWt2Lda10",
+            "id": "wJWJnEN0nf1UxESKgIkg0Xk61jitexNgufZUWaqS0h4",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:43.567851Z",
+                "title": "ambiguousamphibian VODs",
+                "description": "VODs of ambiguousamphibian\n\nChannel art by DistantCacophony: https://twitter.com/DistntCacophony",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCYYVRU_fbEseBXwogp3CuMQ"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOQViX34Fqm9UqMdYEe3D4xXWgwcWjAaDe7W6EA=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOQViX34Fqm9UqMdYEe3D4xXWgwcWjAaDe7W6EA=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOQViX34Fqm9UqMdYEe3D4xXWgwcWjAaDe7W6EA=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "4c-5ULVh90ir7ZruQ7ajcVZ0ESE",
+            "id": "wJWJnEN0nf07382QFQHDFwsX5zhDq4PcLeVjUF38ioI",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:43.837138Z",
+                "title": "Anders Erickson",
+                "description": "Hi \ud83d\udc4b I'm Anders and I worked professionally behind bars for 20 years. I've decided to combine my passion for making good drinks with my love of teaching, storytelling, and videography by creating this channel!\n\nMy hopes for this channel is to create an uplifting space for everyone to feel welcome and encouraged to try their own hand at making cocktails. My videos are meant to be light-hearted and fun, but also informative, so I hope you find them useful! If you have questions, drop a comment and I'll do my best to answer :) \n\nAlso, I have a mild obsession with Angostura bitters. If you are into bitters shots, you and I already have lots in common.\n\nSend stuff to:\nAnders Erickson\n4610 N. Clark St\n#1051\nChicago IL, 60640",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCEK-PgJHg4Jupi7k7re0qGg"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/QSoNia3XmGfPc3pFh8RE9BSPl7nOPpqbHcfyv3e2Qbn1pCPw-SM7Bw4F-bKCQVspPtNv_2CFkg=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/QSoNia3XmGfPc3pFh8RE9BSPl7nOPpqbHcfyv3e2Qbn1pCPw-SM7Bw4F-bKCQVspPtNv_2CFkg=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/QSoNia3XmGfPc3pFh8RE9BSPl7nOPpqbHcfyv3e2Qbn1pCPw-SM7Bw4F-bKCQVspPtNv_2CFkg=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "HRkS-7ocKuIIlfDJGuQRjTT7Upg",
+            "id": "wJWJnEN0nf2Jehuzm6vpMtxuFpPLDp_LhORswMTzcew",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:44.159144Z",
+                "title": "Andrei Jikh",
+                "description": "I will NEVER contact you for business or promotions (even if it comes from my legit email). I will not use IG, Telegram, or whatsapp to reach out - please ignore and report those accounts. \n\nI'm like Harry Potter - if he was a financial minimalist, did card tricks and worried about money. Biz inquiries: andrei@majikh.com",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCGy7SkBjcIAgTiwkXEtPnYg"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOC0vLnl6rMoVPStORJXSZipX9-WW2WkWmu5TUO6g=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOC0vLnl6rMoVPStORJXSZipX9-WW2WkWmu5TUO6g=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOC0vLnl6rMoVPStORJXSZipX9-WW2WkWmu5TUO6g=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "idI4cubRFBOe4RACTpBQkqYlMMQ",
+            "id": "wJWJnEN0nf2Jehuzm6vpMisYct4VDxhPvILijhQHm5I",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:44.484116Z",
+                "title": "Andrew Dotson",
+                "description": "Hi I'm Andrew. I make physics videos, and I'm a gradstudent at NMSU doing research in theoretical nuclear physics. Wouldn't it be so weird if you subscribed haha.\n\nFor possible collabs/business inquiries, click the link below. For all other emails, please direct them towards smartpeopleask@gmail.com. I am no longer online tutoring.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCnFmWQbVW_YbqPQZGNuq8sA"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMz34SuaqLIa7IY13uDGkflWZuJHQl8-OQrYZsr=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMz34SuaqLIa7IY13uDGkflWZuJHQl8-OQrYZsr=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMz34SuaqLIa7IY13uDGkflWZuJHQl8-OQrYZsr=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "I4JcQjxh-IDbhh-gAk5u-m2M-Oo",
+            "id": "wJWJnEN0nf07382QFQHDF6Zjnp-6AHE99Qjypkjwgls",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:44.762297Z",
+                "title": "Annand Virk",
+                "description": "I laugh a lot and talk video games.\n\n\n/// SUPPORT ME ///\n\n\u261b patreon: http://patreon.com/mrbuntyking\n\u261b crypto: 1Ls6BU8kcE41z7WZJVrDq4MRaUwj7fpced\n\u261b donate (TwitchAlerts): http://bit.ly/BKDONATE\n\u261b donate (PayPal): https://www.paypal.me/mrbuntyking\n\u261b wishlist: http://bit.ly/BKWISH\n\n\n/// COMMUNITY ///\n\n\u261b discord: https://discord.gg/buntybrothers\n\u261b instagram: http://instagram.com/annandvirk\n\u261b twitch: http://twitch.tv/mrbuntyking\n\u261b biz email: hi at buntyking dot com\n\u261b p.o. box:  coming soon\n\n\n/// PODCAST ///\n\n\u261b soundcloud: https://soundcloud.com/ymfpodcast\n\n\n/// TAGS ///\n\ngoats, bunty bits, bunty king, internet numbnuts, letstalk, storytime, kings court, reaction, laughter, video games, gaming",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCka_dz0F1gYuvN8LTefNcJQ"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPLIqB0LraJJnfmMErqaJHiBaLrwB64Fosd4fnTeA=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPLIqB0LraJJnfmMErqaJHiBaLrwB64Fosd4fnTeA=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPLIqB0LraJJnfmMErqaJHiBaLrwB64Fosd4fnTeA=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "aIZy0xPJ_ALppxH9UiNyRY0HTTA",
+            "id": "wJWJnEN0nf07382QFQHDF_ZX5M8K5gbXEbjtfcgR3dQ",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:44.974992Z",
+                "title": "Anton Petrov",
+                "description": "My name is Anton and I explain science, math or other complicated topics using simulations, video games and easy to understand words.\nThis is a (mostly) family friendly channel with the focus on science education, space video game, technology topics and programming/coding.\n\nAll of the videos are meant to be informative and will teach you fun facts about science you probably didn't know.\n\nSubscribe if you want to learn things, be up to date with scientific discoveries and be a smartypants.\n\nIf you want to help this channel grow and want to donate a bitcoin or a satoshi, here's my wallet: \nbc1qnkl3nk0zt7w0xzrgur9pnkcduj7a3xxllcn7d4\nor ETH: 0x60f088B10b03115405d313f964BeA93eF0Bd3DbF\n(send me a private message so I can put you in the permanent list of contributors)\nThank you!",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCciQ8wFcVoIIMi-lfu8-cjQ"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMsN0PFMlsku8RpaXgc8IANj3eoDnsXPVTJWM7-EA=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMsN0PFMlsku8RpaXgc8IANj3eoDnsXPVTJWM7-EA=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMsN0PFMlsku8RpaXgc8IANj3eoDnsXPVTJWM7-EA=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "VEksmr92uZYC3emn7zD_laZn6WU",
+            "id": "wJWJnEN0nf07382QFQHDF4oN4wNCd3sg81UBrL7YMYY",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:45.202657Z",
+                "title": "AntVenom",
+                "description": "Hey Guys, AntVenom here! Welcome to my Minecraft YouTube Channel! I make essay format videos within the game of Minecraft! These videos range from Breaking Minecraft, to Minecraft Experiments, Facts about Minecraft, Minecraft Updates & Snapshots, along with any subjects that I find interesting or tell a good story. Consider subscribing if you enjoy!\nMinecraft Username (Java & Bedrock): AntVenom",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCK376qNDlNZZDNHsnaWuTeg"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOyn163YK8Ad6V3OeDhCRfw2x33qYhckPZVpB-aVA=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOyn163YK8Ad6V3OeDhCRfw2x33qYhckPZVpB-aVA=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOyn163YK8Ad6V3OeDhCRfw2x33qYhckPZVpB-aVA=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "6bqXKFhSkBIqWaiN6oYWClv5gdg",
+            "id": "wJWJnEN0nf07382QFQHDF3URJu7Dv5LPktRHCw2F-78",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:45.490299Z",
+                "title": "Applied Science",
+                "description": "Subscribe to see interesting applications of science and technology. You'll see how an electron microscope was built in a home shop, how an X-ray backscatter system works, how to make aerogel, and many other hi-tech projects.  Topics usually include electromechanical systems, chemistry, and electronics. Hosted by Ben Krasnow.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCivA7_KLKWo43tFcCkFvydw"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPn2zHWcOWu9cIVs8HVRYm01P6W9iGa2Lk5xD5v=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPn2zHWcOWu9cIVs8HVRYm01P6W9iGa2Lk5xD5v=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPn2zHWcOWu9cIVs8HVRYm01P6W9iGa2Lk5xD5v=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "H1dj-1JiCoH6tzzWZPrqIbmKTP4",
+            "id": "wJWJnEN0nf1UxESKgIkg0UK7dxEx9eBhafoHK3rrEAY",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:45.730799Z",
+                "title": "Ari Shaffir",
+                "description": "Standup comedian Ari Shaffir's official channel. Standup comedy, Skeptic Tank Podcast, and more.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCkqNTF2SegipHCkwkBrq6hw"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/IVPeIfi2Jl53QdbzQOvDjdMHXqbyrWIWMEFrqRRLb_K7TaVLiNRkmDe4fHjrj_Us7eNyLT_DKQ=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/IVPeIfi2Jl53QdbzQOvDjdMHXqbyrWIWMEFrqRRLb_K7TaVLiNRkmDe4fHjrj_Us7eNyLT_DKQ=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/IVPeIfi2Jl53QdbzQOvDjdMHXqbyrWIWMEFrqRRLb_K7TaVLiNRkmDe4fHjrj_Us7eNyLT_DKQ=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "CjJcafnOjUt1EeQDYK1lruAfEqE",
+            "id": "wJWJnEN0nf2Jehuzm6vpMoMI-cZKkIEphOk-IP4uc0A",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:45.944697Z",
+                "title": "Ash",
+                "description": "",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCPa80uB0JuGt0_OlW5M7NGQ"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqN7Fz1X7L4rGck4IrdCeGOfBkFGFjZteI9PNALC-A=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqN7Fz1X7L4rGck4IrdCeGOfBkFGFjZteI9PNALC-A=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqN7Fz1X7L4rGck4IrdCeGOfBkFGFjZteI9PNALC-A=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "OHUWGSRcQaRkutdhrvgRjKfcVSE",
+            "id": "wJWJnEN0nf1RFil5ZJ7ksgzHlE9Q1wpZjIIRRxBe1Q8",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:46.217266Z",
+                "title": "Auto Focus",
+                "description": "Car videos from MKBHD!",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC2J-0g_nxlwcD9JBK1eTleQ"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/lSwLKpd-BGsaDwVDNP_pgUcf4rg3akrE7p5FjAWzv3w4oR7bBkx22QhOc7ulHLQw6ZVTg-RE=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/lSwLKpd-BGsaDwVDNP_pgUcf4rg3akrE7p5FjAWzv3w4oR7bBkx22QhOc7ulHLQw6ZVTg-RE=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/lSwLKpd-BGsaDwVDNP_pgUcf4rg3akrE7p5FjAWzv3w4oR7bBkx22QhOc7ulHLQw6ZVTg-RE=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "VfAuaHwOyJ5oqup_pbRyYNXbXPw",
+            "id": "wJWJnEN0nf07382QFQHDF5VKXguXdnXRJuREgcyYP0o",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:46.413129Z",
+                "title": "AvE",
+                "description": "Err\nand err\nand err again\nbut less\nand less\nand less.\n\n-Piet Hein",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UChWv6Pn_zP0rI6lgGt3MyfA"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqO8ubnCRx6sdDJq202AI_98GILmFYSR9sjLrDcq=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqO8ubnCRx6sdDJq202AI_98GILmFYSR9sjLrDcq=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqO8ubnCRx6sdDJq202AI_98GILmFYSR9sjLrDcq=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "QYQ8scQxhh6fr_JtmigFP-X7Y5U",
+            "id": "wJWJnEN0nf07382QFQHDF6kKVQ8uWJVhPTKsrBnvlHI",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:46.73079Z",
+                "title": "Bacon Donut",
+                "description": "Hello Everyone! My name is Bacon Donut and welcome to my YouTube channel! I make positive high-energy videos and I play a lot of Minecraft!\n\nBe sure to watch me live on my Twitch channel Monday through Friday starting at 8pm US Central time!",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCRVfdf0mQZvBBjjtebaZQEA"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqM-GpfG-vkngfloMDrGY1AJQZa12LFPOGntqNDc4w=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqM-GpfG-vkngfloMDrGY1AJQZa12LFPOGntqNDc4w=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqM-GpfG-vkngfloMDrGY1AJQZa12LFPOGntqNDc4w=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "amqAeB6P-1xMOEX8FfeLGd1LHZg",
+            "id": "wJWJnEN0nf2Jehuzm6vpMhjifvgHCMvPzOnRUw0zNeQ",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:47.025354Z",
+                "title": "Baited!",
+                "description": "Welcome to Baited! A podcast hosted by @KEEMSTAR, @AndyMilonakis & @anything4views",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCHCZlTMfz0pEKSVX_gqvX5A"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNhlERU9TKo8v17hcwnfspjRh4bx91WHzishQ9DIw=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNhlERU9TKo8v17hcwnfspjRh4bx91WHzishQ9DIw=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNhlERU9TKo8v17hcwnfspjRh4bx91WHzishQ9DIw=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "kVl8hk9GA4DsLH3hcJ4XR8aYIHo",
+            "id": "wJWJnEN0nf1UxESKgIkg0f64Hf9lhlrOxJHu-DVLsII",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:47.303648Z",
+                "title": "Barji",
+                "description": "hi i make game :0",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCz3l6nyODzXLzTxIkARZ8rw"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/-roUv9n0fbSHmBxNAawCWcD9Sy8I4jCF1OUviVFr5WDqk2L1H8RLLM0Fl6Jz2C2aeoEdz8YQ=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/-roUv9n0fbSHmBxNAawCWcD9Sy8I4jCF1OUviVFr5WDqk2L1H8RLLM0Fl6Jz2C2aeoEdz8YQ=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/-roUv9n0fbSHmBxNAawCWcD9Sy8I4jCF1OUviVFr5WDqk2L1H8RLLM0Fl6Jz2C2aeoEdz8YQ=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "1n-aMwWPeS5T1SWWMD1aasXI4Ks",
+            "id": "wJWJnEN0nf07382QFQHDF2JOjMRhMV2llbfNwWU2n84",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:47.587821Z",
+                "title": "BBC Earth Lab",
+                "description": "Welcome to BBC Earth Lab! Always wanted to know what the world\u2019s strongest material is? Why trains can\u2019t go uphill? Or How big our solar system really is? Well, you\u2019ve come to the right place. Here at BBC Earth Lab, we answer all your curious questions about science in the world around you (and further afield too). \n\nDon\u2019t forget to check out:\nhttp://www.youtube.com/bbcearth\n\nThis is a commercial channel from BBC Studios.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCdsOTr6SmDrxuWE7sJFrkhQ"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/eEfhZ4L1-meREuypGS9GXcZZOe-Xg1-xlMkPaesnzK5eKWWdnXaRCYUWB8mXf07vuUcSFN2zew=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/eEfhZ4L1-meREuypGS9GXcZZOe-Xg1-xlMkPaesnzK5eKWWdnXaRCYUWB8mXf07vuUcSFN2zew=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/eEfhZ4L1-meREuypGS9GXcZZOe-Xg1-xlMkPaesnzK5eKWWdnXaRCYUWB8mXf07vuUcSFN2zew=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "mYN9svA851k3ZZFjo_qjBPKFUJ0",
+            "id": "wJWJnEN0nf07382QFQHDFx9sEbk4L34W6kJWUmToSxI",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:47.866125Z",
+                "title": "Be Smart",
+                "description": "Be Smart is created and hosted by Joe Hanson, Ph.D. \n\nWe give you deep answers to simple questions about science and the rest of the universe.\n\nHave ideas or questions? Find me on Twitter: @okaytobesmart or @DrJoeHanson",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCH4BNI0-FOK2dMXoFtViWHw"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/OTeVrhBf3byA2ofSUO1vbhzbB0XAmBpm6Rgm85xO6OUVmW3PoPQ0Siy5UJbuRJC16PGImImvm34=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/OTeVrhBf3byA2ofSUO1vbhzbB0XAmBpm6Rgm85xO6OUVmW3PoPQ0Siy5UJbuRJC16PGImImvm34=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/OTeVrhBf3byA2ofSUO1vbhzbB0XAmBpm6Rgm85xO6OUVmW3PoPQ0Siy5UJbuRJC16PGImImvm34=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "J44PgvKwKcexyKXRn5WQ2yforiY",
+            "id": "wJWJnEN0nf07382QFQHDF3n24NFkDC4kR--iUhncIts",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:48.146023Z",
+                "title": "Beanonaboard",
+                "description": "Everything Minecraft: A lot of modern houses, mansions and tutorial all for Minecraft, I tend to build in Default so that everyone whether your on Pocket Edition (PE) Xbox or PC can follow along!\n\nI enjoy making videos and sharing my ideas and builds with the rest of the world!\n\nMy schedule\nTuesday 6:30PM BST - Minecraft Showcase/Random Video\nThursday 6:30PM BST - Kaoshkraft\nSaturday 6:30PM BST - Tutorial",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCNc72KqBUpQrUmMGrZCnujw"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOXDQF8vt4fYka9eSr5dN8vomrfOWmV_acAx7LY1Q=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOXDQF8vt4fYka9eSr5dN8vomrfOWmV_acAx7LY1Q=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOXDQF8vt4fYka9eSr5dN8vomrfOWmV_acAx7LY1Q=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "FMyv5i6zCXGTIzPy3voNnI4hGPE",
+            "id": "wJWJnEN0nf07382QFQHDF4WcWKgkDAHoTMOsXer6W6A",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:48.413966Z",
+                "title": "Because Science",
+                "description": "Nerdist Science Editor Kyle Hill uses real-world math and science concepts to solve, measure, and make sense of pop culture quandaries in comics, video games, movies, and TV.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCvG04Y09q0HExnIjdgaqcDQ"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOlkgROKIFqQvITLGl__qfnMnDZ--Gz3k3Hn1KW=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOlkgROKIFqQvITLGl__qfnMnDZ--Gz3k3Hn1KW=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOlkgROKIFqQvITLGl__qfnMnDZ--Gz3k3Hn1KW=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "92oEDv250mVvNqtWy6FOcym4CuU",
+            "id": "wJWJnEN0nf2Jehuzm6vpMlZ1L7dzaVHBcn7XEd-fECw",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:48.705083Z",
+                "title": "BEME News",
+                "description": "We do the news.\n\n\n\n\nUpdated August 3, 2018.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCY0YIply-je0EhSWLgpftVw"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNotPz1qx2KDit6zPNCyrBt2spWKcBTCono6bNQ8Q=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNotPz1qx2KDit6zPNCyrBt2spWKcBTCono6bNQ8Q=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNotPz1qx2KDit6zPNCyrBt2spWKcBTCono6bNQ8Q=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "qhUc4G65qT3h1gp8Z0KpgAJ1E6c",
+            "id": "wJWJnEN0nf07382QFQHDF9fPtDf8gLJudxDL-aOKzcE",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:48.941807Z",
+                "title": "Ben's Chem Videos",
+                "description": "Hello,\n\nI'm Ben.  I like to make educational chemistry videos here on YouTube. \n\nMy goal is to build a comprehensive video database for everything chemistry, including general chemistry, organic chemistry, biochemistry, physical chemistry, analytical chemistry, and inorganic chemistry.\n\nThank you for stopping by, and feel free to send me a message if you have any questions, comments, or suggestions for improvement.\n\nAll the best,\n\n-Ben\n\nEducation:  Bachelor of Science Degree in Chemistry, University of Central Florida",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCFQSMYuN-6Kdy1AQy8t9VTQ"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMiqKwdffeRxFB6_gVO6aXNOjtzFU8zg41md7WwYA=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMiqKwdffeRxFB6_gVO6aXNOjtzFU8zg41md7WwYA=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqMiqKwdffeRxFB6_gVO6aXNOjtzFU8zg41md7WwYA=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "cUqTDsgSmrH9vkczrRI01VOArZ8",
+            "id": "wJWJnEN0nf07382QFQHDF8FQp-vd3Z7Na_9s7utk-Kk",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:49.241499Z",
+                "title": "BG Kumbi",
+                "description": "The Philosopher of Comedy\n\nAll Kumbi links:\nhttps://beacons.page/bgkumbi",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCm2pbaivKA-9poyXZ4rexrw"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPDLkYYUtmYFcTCNH0snFI5ufctmRxG6rNOh993tQ=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPDLkYYUtmYFcTCNH0snFI5ufctmRxG6rNOh993tQ=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPDLkYYUtmYFcTCNH0snFI5ufctmRxG6rNOh993tQ=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "xBGAirsE_VN1_mwHsFYMON2TYQU",
+            "id": "wJWJnEN0nf07382QFQHDFxfE7__NyT2hWnBzqP1nTyk",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:49.499064Z",
+                "title": "bill wurtz",
+                "description": "is slef",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCq6aw03lNILzV96UvEAASfQ"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPEEWujjfG8jfA2_eoPe4-neFGZarImH1p4lmRP0g=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPEEWujjfG8jfA2_eoPe4-neFGZarImH1p4lmRP0g=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPEEWujjfG8jfA2_eoPe4-neFGZarImH1p4lmRP0g=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "aBiFLf7fzrZ-Lt4O-KvaMK-dIHk",
+            "id": "wJWJnEN0nf07382QFQHDF_SGoJCqyIINlfZE3GJ1dg0",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:49.766413Z",
+                "title": "Bionicpig Shorts",
+                "description": "",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCZm2C2bJGHKeeNBBACQ9yQg"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/Mi-r5z1UWjiFrDBZDhPjyKa41Z4t_FeH-nsa7rMr4FaB36mPTvEmUIyi2klDTdZegJah8taOjg=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/Mi-r5z1UWjiFrDBZDhPjyKa41Z4t_FeH-nsa7rMr4FaB36mPTvEmUIyi2klDTdZegJah8taOjg=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/Mi-r5z1UWjiFrDBZDhPjyKa41Z4t_FeH-nsa7rMr4FaB36mPTvEmUIyi2klDTdZegJah8taOjg=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "D8AsukVAJLS2LO6iT2uyftrzW3U",
+            "id": "wJWJnEN0nf2Jehuzm6vpMr_BBXbJNefC2y6HtQaAD08",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:50.044788Z",
+                "title": "Bishal Teaches Stuff",
+                "description": "",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCXsJ6ZFLUCHVQ1905C_rDKg"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPUVWxjzbPxahnwvfdFAcCOj8_U9yJ5s6m4-Eux=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPUVWxjzbPxahnwvfdFAcCOj8_U9yJ5s6m4-Eux=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPUVWxjzbPxahnwvfdFAcCOj8_U9yJ5s6m4-Eux=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "_4avZU9Fm1tKU3pp15wWMMIJRIQ",
+            "id": "wJWJnEN0nf07382QFQHDFz3i4T1yUvdMxnIxvd0XIdM",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:50.314281Z",
+                "title": "blackpenredpen",
+                "description": "This channel is about math for fun! Most of the topics will be calculus-based. Sometimes we will also investigate some weird equations and complex numbers! Feel free to subscribe if you also like math!\n\nIf you are looking for calculus tutorials for your #precalculus, college #calculus1, college #calculus2, #APcalculusAB, or #APcalculusBC, then please visit my \"just calculus\" channel: https://bit.ly/just_calc",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC_SvYP0k05UKiJ_2ndB02IA"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/2B_3dYUOW7p2UC1DFDFkmk9fmMvaxl-GdZR2F2x6-J5eoGumKO1FMJFtZh9gUDLxIM_fy6XM=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/2B_3dYUOW7p2UC1DFDFkmk9fmMvaxl-GdZR2F2x6-J5eoGumKO1FMJFtZh9gUDLxIM_fy6XM=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/2B_3dYUOW7p2UC1DFDFkmk9fmMvaxl-GdZR2F2x6-J5eoGumKO1FMJFtZh9gUDLxIM_fy6XM=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "_n7kKkyaJmiU0CmXX_6967TB_9w",
+            "id": "wJWJnEN0nf07382QFQHDF8ufRovAbXqUqKuK8LwFnMg",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:50.607073Z",
+                "title": "Bob Ross",
+                "description": "The official YouTube channel of \"The Joy of Painting\" and Bob Ross. Watch and paint along with every episode of The Joy of Painting! Happy painting!\n\nYou've seen Bob Ross before. He is the soft-spoken guy painting happy clouds, mountains, and trees in about 26 television minutes, using big house painting-type brushes and encouraging audiences with his gentle reminder, \"you can do it.\"\n\nThe Joy of Painting is an American half-hour instructional television show hosted by painter Bob Ross which ran from January 11, 1983, until May 17, 1994. In each episode, Ross taught techniques for landscape oil painting, completing a painting in each session.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCxcnsr1R5Ge_fbTu5ajt8DQ"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ZJGwKd4H-lsmPo6cZ2WJ7aaU6uRJYOAmj-MDIDy_Se0sUu3iM41hG3KXgVz690DeEPRqxaKx=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ZJGwKd4H-lsmPo6cZ2WJ7aaU6uRJYOAmj-MDIDy_Se0sUu3iM41hG3KXgVz690DeEPRqxaKx=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ZJGwKd4H-lsmPo6cZ2WJ7aaU6uRJYOAmj-MDIDy_Se0sUu3iM41hG3KXgVz690DeEPRqxaKx=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "Vq6ZKo02-fBmurcEWIUsKT-xsaE",
+            "id": "wJWJnEN0nf07382QFQHDFx6D6UDqVmWo8xXWWlJxri8",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:50.886245Z",
+                "title": "Bobby Duke Arts",
+                "description": "I make art. So should you.\n\nYa goobus\n\n\n If you want more Dukey in your life, go follow\nMy Instagram  @bobbydukearts\nand Twitter  @bobbydukearts\nand Patreon  (links to everything below)\nMail box- 9463 Benbrook Blvd #1135, Benbrook, TX 76126\n\nMusic I use is from epidemic sound. \nGo check them out and use my affiliate link below :)",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCSC1HqVmTaE4Shn32ihbC7w"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNsCdjHMr-AYUBVQyHJCEW7GYCgHhS7i1BY-AVr=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNsCdjHMr-AYUBVQyHJCEW7GYCgHhS7i1BY-AVr=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqNsCdjHMr-AYUBVQyHJCEW7GYCgHhS7i1BY-AVr=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "UYpNZmHIMffvJ1zC1IPcYRNwsbo",
+            "id": "wJWJnEN0nf1RFil5ZJ7kstCITxbHMKngOwGjk0Cggvw",
+            "snippet": {
+                "publishedAt": "2023-03-24T16:23:51.147539Z",
+                "title": "boogiehead",
+                "description": "music is cool",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCUpD-85yWbQDXSxKD-E9XnA"
+                },
+                "channelId": "UCiUzC5ccGm5cqDa59lzR3hw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/c4kuaEL5QBbfzHXhNiGXjiBJxGGdJ0V6AahJVwZ-oqMBo4hQFQmfuaw1Tb2Qp6-pp9y2iwuPfWE=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/c4kuaEL5QBbfzHXhNiGXjiBJxGGdJ0V6AahJVwZ-oqMBo4hQFQmfuaw1Tb2Qp6-pp9y2iwuPfWE=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/c4kuaEL5QBbfzHXhNiGXjiBJxGGdJ0V6AahJVwZ-oqMBo4hQFQmfuaw1Tb2Qp6-pp9y2iwuPfWE=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        }
+    ]
+}

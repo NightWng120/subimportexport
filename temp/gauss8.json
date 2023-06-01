@@ -1,0 +1,89 @@
+{
+    "kind": "youtube#SubscriptionListResponse",
+    "etag": "qsekMrdERC6Sz2a4FbXRm1gmmgI",
+    "prevPageToken": "CJADEAE",
+    "pageInfo": {
+        "totalResults": 403,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#subscription",
+            "etag": "cQdj46Q5W6t-sKBU027Fr9-EeEk",
+            "id": "-9UIewmiCcvHHPnhD2mpwlqhZkbeU49tq93UpndP4Ik",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:26:21.307078Z",
+                "title": "Primitive Technology",
+                "description": "Primitive technology is a hobby where you build things in the wild completely from scratch using no modern tools or materials. These are the strict rules: If you want a fire, use a fire stick - An axe, pick up a stone and shape it - A hut, build one from trees, mud, rocks etc. The challenge is seeing how far you can go without utilizing modern technology. I do not live in the wild, but enjoy building shelter, tools, and more, only utilizing natural materials. To find specific videos, visit my playlist tab for building videos focused on pyrotechnology, shelter, weapons, food & agriculture, tools & machines, and weaving & fiber.\n\nFAQ\nQ.Where is this? \nA.This is in Far North Queensland Australia.\nQ.Do you live in the wild?\nA.I don't live in the wild but just go into the bush to make these projects. Also I camp out here occasionally.\nQ.How did you learn all this?\nA.Researching books and internet plus trial and error. I'm not indigenous and have no army training.\n\nCheck out my blog below.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCAL3JXZSzSm8AlZyD3nQdBA"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOMm0B4TN9oNifKgVwi52bp11Nl5-Ew9Ulgs2RE=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOMm0B4TN9oNifKgVwi52bp11Nl5-Ew9Ulgs2RE=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqOMm0B4TN9oNifKgVwi52bp11Nl5-Ew9Ulgs2RE=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "X4c9STbA1IM_80-9JFFEs9T2vR8",
+            "id": "-9UIewmiCcvHHPnhD2mpwt2aVvI9Cw8wMihmGDVhwik",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:26:21.855266Z",
+                "title": "psychicpebbles",
+                "description": "part-time bozo, full-time schmuck.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC--BMyA2X4a9PGAo3lTuopg"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPX_ShK_SwWiW2RBBvL2l_vdLpjwbIXsv1MphnzJw=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPX_ShK_SwWiW2RBBvL2l_vdLpjwbIXsv1MphnzJw=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqPX_ShK_SwWiW2RBBvL2l_vdLpjwbIXsv1MphnzJw=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "4fzSZyYRI-xNb1HnUiJFgkBy31M",
+            "id": "-9UIewmiCcvHHPnhD2mpwjZ0BNP8P3fZkOkARq3j3r4",
+            "snippet": {
+                "publishedAt": "2023-05-31T21:31:56.221344Z",
+                "title": "The Bret Crow Show",
+                "description": "=============================================================\n\nHello!!! Thank You for coming to my channel, I do greatly appreciate it!!!\n\nWelcome To The Bret Crow Show!!!\n\nMy name is Bret Crow, i'm a Composer/Bassist that loves to play and create music, write & perform my own Original music with a looper pedal, add bass to other musician's music and to silly videos and found music. I love making people laugh, dance, and sing!!!\n\nCheck out my music and Merch :D\nhttps://linktr.ee/thebretcrowshow\n\nPlease follow me on all my social media!!!\n\nTiktok: \nhttps://tiktok.com/@thebretcrowshow \n\nInstagram: \nhttps://instagram.com/thebretcrowshow\n\nFacebook:\nhttps://facebook.com/thebretcrowshow\n\nSlice Fury - Sketch Comedy I do with my friend Ethan \nyoutube.com/slicefury\n\nThank You for your continued support of my music and my career!!  It really means a lot that you take the time out of your day to watch my videos, and I do truly appreciate you!!! \n\nHope you're having a great day :D Thank You!!!",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCoxVkLWan6nAb38mnJZXOSw"
+                },
+                "channelId": "UCV5j2Tjp5Jxik4MorshiAug",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/AcNqfjqrznSFnHwBpfKlaukGK0p-qGA8etz52CX2OvV5H-rqpIYwqtO7GqF7UbKTm-uapQZP=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/AcNqfjqrznSFnHwBpfKlaukGK0p-qGA8etz52CX2OvV5H-rqpIYwqtO7GqF7UbKTm-uapQZP=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/AcNqfjqrznSFnHwBpfKlaukGK0p-qGA8etz52CX2OvV5H-rqpIYwqtO7GqF7UbKTm-uapQZP=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            }
+        }
+    ]
+}
