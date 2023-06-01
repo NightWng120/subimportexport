@@ -160,6 +160,8 @@ def main():
     credentials = None
     loop = True
     page_no = 0
+    if not os.path.exists('/home/nightwng120/Documents/GithubRepos/Python-Things/subimportexport/temp'):
+        os.mkdir('/home/nightwng120/Documents/GithubRepos/Python-Things/subimportexport/temp', 0o666)  
     while loop:
         print("(press q to quit)\n")
         print("Import or export subs i/e ?")
