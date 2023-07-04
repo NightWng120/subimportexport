@@ -1,10 +1,7 @@
 import re
-import string
 import os
-import numpy as np
 import json
 import pickle
-import glob
 from typing import Iterator
 from googleapiclient.errors import HttpError
 from google_auth_oauthlib.flow import InstalledAppFlow
@@ -88,7 +85,10 @@ def dump_to_file(obj, filename):
 def paginated_results(youtube_listable_resource, list_request, limit_requests=50) -> Iterator:
     remaining = -1 if limit_requests is None else limit_requests
     while list_request and remaining != 0:
-        list_response = list_request.execute()
+        try:
+            list_response = list_request.execute()
+        except HttpError as e:
+            return e
         yield list_response
         list_request = youtube_listable_resource.list_next(list_request, list_response)
         remaining -= 1
@@ -179,6 +179,8 @@ def main():
                 credentials  = authenticate_user_import(file, False, secrets_key)
                 youtube = build('youtube', 'v3', credentials=credentials)
                 while files:
+                    credentials = authenticate_user_import(file, False, secrets_key)
+                    youtube = build('youtube', 'v3', credentials=credentials)
                     if os.path.exists(f'temp/{file}{page_no}.json'):
                         with open(f'temp/{file}{page_no}.json', 'r') as f:
                             data = json.load(f)
@@ -186,10 +188,12 @@ def main():
                             buffer = item["snippet"]["resourceId"]['channelId']
                             print(f'From main\n---------------------------------{item}\n---------------------------------\n')
                             try:
-                                resource =   subscriptions_insert(youtube,
-                                {'snippet.resourceId.kind': 'youtube# channel',
-                                'snippet.resourceId.channelId': f'{buffer}'},
-                                part ='snippet')
+                                # resource = 
+                                subscriptions_insert(
+                                        youtube, {'snippet.resourceId.kind':
+                                                  'youtube# channel',
+                                                  'snippet.resourceId.channelId':
+                                                  f'{buffer}'}, part='snippet')
                             except HttpError as e:
                                 print('An HTTP error %d occurred:\n%s' % (e.resp.status, e.content))
                                 if e.resp.status == 403:
@@ -207,22 +211,22 @@ def main():
 
                             else:
                                 print('A subscription to \'%s\' was added.' % item)
-                        page_no+=1
 
+                        break
                     else:
-                        files = False
+                        break
             elif inputData == '2':
                 print("What files do you want to insert into your account?\nEnter file name: ", end=' ')
                 file = input()
                 print("What files do you want to compare against?\nEnter file name: ", end=' ')
                 file2 = input()
-                credentials = authenticate_user_import(file, False, secrets_key)
-                youtube = build('youtube', 'v3', credentials=credentials)
-                if os.path.exists(f'temp/channelIds_{file2}.txt'):
-                    with open(f'temp/channelIds_{file2}.txt', 'r') as f:
-                        data2 = f.readlines()
-                count = 0;
                 while files:
+                    credentials = authenticate_user_import(file, False, secrets_key)
+                    youtube = build('youtube', 'v3', credentials=credentials)
+                    if os.path.exists(f'temp/channelIds_{file2}.txt'):
+                        with open(f'temp/channelIds_{file2}.txt', 'r') as f:
+                            data2 = f.readlines()
+
                     if os.path.exists(f'temp/{file}{page_no}.json'):
                         with open(f'temp/{file}{page_no}.json', 'r') as f:
                             data = json.load(f)
@@ -268,9 +272,9 @@ def main():
                                     print('A subscription to \'%s\' was added.' % item)
                             else:
                                 val = True
-                        page_no+=1
+                        break
                     else:
-                        files = False
+                        break
         elif inputData.lower() == 'e':
             print("\nWhat would you like to do?\n")
             print("|----------------------------------|")
@@ -285,16 +289,17 @@ def main():
                 print("Enter name for sub files")
                 name = input()
 
-                print(f'Current Secret File: {secrets_key}\nCurrent Port: {CLIENT_SECRETS[secrets_key]}')
-                try:
-                    credentials = authenticate_user_export(file, False, secrets_key)
-                    youtube = build('youtube', 'v3', credentials=credentials)
-                    request = youtube.subscriptions().list(part='snippet', order = "alphabetical", maxResults = 50, mine = True)
-                    response = request.execute()
-                    response = paginated_results(youtube.subscriptions(), request)
-                    print("\n\n---Request Sent---\n\n")
-                except HttpError as e:
-                    while files:
+                while files:
+                    print(f'Current Secret File: {secrets_key}\nCurrent Port: {CLIENT_SECRETS[secrets_key]}')
+                    try:
+                        credentials = authenticate_user_export(file, False, secrets_key)
+                        youtube = build('youtube', 'v3', credentials=credentials)
+                        request = youtube.subscriptions().list(part='snippet', order="alphabetical", maxResults=50, mine=True)
+                        response = request.execute()
+                        response = paginated_results(youtube.subscriptions(), request)
+                        print("\n\n---Request Sent---\n\n")
+                        break
+                    except HttpError as e:
                         print('An HTTP error %d occurred:\n%s' % (e.resp.status, e.content))
                         print(f"Current Client Secret: {secrets_key}")
                         print(f'Http Error Code: {e.resp.status}')
@@ -338,9 +343,9 @@ def main():
                 file = input()
                 print("Enter name for sub files")
                 name = input()
-                credentials = authenticate_user_export(file, True, secrets_key)
-                youtube = build('youtube', 'v3', credentials=credentials)
                 while files:
+                    credentials = authenticate_user_export(file, True, secrets_key)
+                    youtube = build('youtube', 'v3', credentials=credentials)
                     try:
                         request = youtube.subscriptions().list(part='snippet', order = "alphabetical", maxResults = 50, mine = True)
                         response = request.execute()
