@@ -14,7 +14,6 @@ CLIENT_SECRETS = {key[1]:temp[1][key[0]] for key in enumerate(temp[0])}
 
 #CLIENT_SECRET = CLIENT_SECRETS[0]
 
-
 def print_response(response):
   print(response)
 
@@ -160,8 +159,10 @@ def main():
     credentials = None
     loop = True
     page_no = 0
-    if not os.path.exists('/home/nightwng120/Documents/GithubRepos/Python-Things/subimportexport/temp'):
-        os.mkdir('/home/nightwng120/Documents/GithubRepos/Python-Things/subimportexport/temp', 0o666)  
+    out = False
+    allout = False
+    if not os.path.exists('/home/nightwng120/Documents/GithubRepos/subimportexport/temp'):
+        os.mkdir('/home/nightwng120/Documents/GithubRepos/subimportexport/temp', 0o666)
     while loop:
         print("(press q to quit)\n")
         print("Import or export subs i/e ?")
@@ -179,12 +180,29 @@ def main():
                 credentials  = authenticate_user_import(file, False, secrets_key)
                 youtube = build('youtube', 'v3', credentials=credentials)
                 while files:
+                    if allout:
+                        allout = False
+                        break
+
                     credentials = authenticate_user_import(file, False, secrets_key)
                     youtube = build('youtube', 'v3', credentials=credentials)
-                    if os.path.exists(f'temp/{file}{page_no}.json'):
+                    while os.path.exists(f'temp/{file}{page_no}.json'):
+                        if out:
+                            out = False
+                            break
+                        elif allout:
+                            break
+
                         with open(f'temp/{file}{page_no}.json', 'r') as f:
                             data = json.load(f)
+                        page_no += 1
+
                         for item in data['items']:
+                            if out:
+                                break
+                            elif allout:
+                                break
+
                             buffer = item["snippet"]["resourceId"]['channelId']
                             print(f'From main\n---------------------------------{item}\n---------------------------------\n')
                             try:
@@ -204,34 +222,51 @@ def main():
                                     if next_key not in CLIENT_SECRETS :
                                         #CLIENT_SECRET = CLIENT_SECRETS[CLIENT_SECRETS.index(CLIENT_SECRET)]
                                         print("Out of client secrets to use")
+                                        allout = True
                                     else:
                                         secrets_key = next_key 
                                         page_no += 1
+                                        out = True
                                         break
 
                             else:
                                 print('A subscription to \'%s\' was added.' % item)
 
-                        break
-                    else:
-                        break
             elif inputData == '2':
                 print("What files do you want to insert into your account?\nEnter file name: ", end=' ')
                 file = input()
                 print("What files do you want to compare against?\nEnter file name: ", end=' ')
                 file2 = input()
                 while files:
+                    if allout:
+                        allout = False
+                        break
                     credentials = authenticate_user_import(file, False, secrets_key)
                     youtube = build('youtube', 'v3', credentials=credentials)
                     if os.path.exists(f'temp/channelIds_{file2}.txt'):
                         with open(f'temp/channelIds_{file2}.txt', 'r') as f:
                             data2 = f.readlines()
+                    else:
+                        data2 = []
 
-                    if os.path.exists(f'temp/{file}{page_no}.json'):
+                    while os.path.exists(f'temp/{file}{page_no}.json'):
+                        if out:
+                            out = False
+                            break
+                        elif allout:
+                            break
                         with open(f'temp/{file}{page_no}.json', 'r') as f:
                             data = json.load(f)
+                            print(f"Loaded json file #{page_no}")
 
+                        page_no += 1
+                        print(f"Length of data: {len(data)}")
                         for item in data['items']:
+                            if out:
+                                break
+                            elif allout:
+                                break
+
                             for cid in data2:
                                 buffer = item["snippet"]["resourceId"]['channelId']
                                 buffer = buffer.strip()
@@ -246,10 +281,7 @@ def main():
 
                                 try:
                                     print("", end="")
-                                    resource =   subscriptions_insert(youtube, 
-                                        {'snippet.resourceId.kind': 'youtube# channel',
-                                         'snippet.resourceId.channelId': f'{buffer}'},
-                                        part ='snippet')
+                                    subscriptions_insert(youtube, {'snippet.resourceId.kind': 'youtube# channel', 'snippet.resourceId.channelId': f'{buffer}'}, part='snippet')
                                 except HttpError as e:
                                     print(CLIENT_SECRETS)
                                     print('An HTTP error %d occurred:\n%s' % (e.resp.status, e.content))
@@ -263,18 +295,18 @@ def main():
                                             if next_key not in CLIENT_SECRETS :
                                                 #CLIENT_SECRET = CLIENT_SECRETS[CLIENT_SECRETS.index(CLIENT_SECRET)]
                                                 print("Out of client secrets to use")
+                                                allout = True
                                             else:
                                                 secrets_key = next_key 
                                                 page_no += 1
+                                                out = True
                                                 break
                                 else:
                                     print("", end="")
                                     print('A subscription to \'%s\' was added.' % item)
                             else:
                                 val = True
-                        break
-                    else:
-                        break
+
         elif inputData.lower() == 'e':
             print("\nWhat would you like to do?\n")
             print("|----------------------------------|")
@@ -318,6 +350,7 @@ def main():
                                 continue
                 subs = []
                 ids = []
+
                 for pageNum, subscriptionitems_list_response in enumerate(response):
                     for item in subscriptionitems_list_response["items"]:
                          channel_id = item["snippet"]["resourceId"]['channelId']
